@@ -1,0 +1,2855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Live Chat by Supsystic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-03 12:27+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: supsystic.com <supsystic.team@gmail.com>\n"
+"Language-Team: supsystic.com <supsystic.team@gmail.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../classes/controller.php:209 ../classes/controller.php:218
+#: ../modules/chat/controller.php:77 ../modules/chat/controller.php:92
+#: ../modules/chat/controller.php:104 ../modules/chat/controller.php:116
+#: ../modules/chat/controller.php:137 ../modules/chat/controller.php:152
+#: ../modules/chat/controller.php:160 ../modules/chat/controller.php:169
+#: ../modules/chat/controller.php:177 ../modules/chat/controller.php:185
+#: ../modules/chat/controller.php:193 ../modules/chat/controller.php:202
+#: ../modules/chat/controller.php:210 ../modules/mail/controller.php:23
+#: ../modules/options/controller.php:6
+#: ../modules/pages/views/tpl/deactivatePage.php:37
+#: ../modules/statistics/controller.php:20
+#: ../modules/statistics/controller.php:29
+msgid "Done"
+msgstr "Kész"
+
+#: ../classes/field.php:131 ../modules/chat/views/tpl/chatSettingsDesign.php:54
+msgid "Select"
+msgstr "Kiválasztás"
+
+#: ../classes/field.php:170 ../classes/field.php:179 ../classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: ../classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Jelölőnégyzet hozzáadása"
+
+#: ../classes/field.php:282 ../classes/field.php:287
+msgid "Add Item"
+msgstr "Elem hozzáadása"
+
+#: ../classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Választógomb hozzáadása"
+
+#: ../classes/field.php:311
+msgid "Dimensions"
+msgstr "Méretek"
+
+#: ../classes/field.php:314
+msgid "width"
+msgstr "szélesség"
+
+#: ../classes/field.php:316
+msgid "height"
+msgstr "magasság"
+
+#: ../classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Ide kattintva beállítható az \"id\" és a \"class\" mező"
+
+#: ../classes/field.php:324
+msgid "Attributes"
+msgstr "Attribútumok"
+
+#: ../classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Nincs beállítási lehetőség ehhez a modulhoz."
+
+#: ../classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Alkalmaz:"
+
+#: ../classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "Cím"
+
+#: ../classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Cél"
+
+#: ../classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Ország"
+
+#: ../classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: ../classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "Nincs kategória"
+
+#: ../classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Márkák"
+
+#: ../classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "Nincsenek márkák"
+
+#: ../classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Adókulcs"
+
+#: ../classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Abszolút"
+
+#: ../classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Nincs kijelölve"
+
+#: ../classes/fieldAdapter.php:184
+msgid "class"
+msgstr "class"
+
+#: ../classes/fieldAdapter.php:186 ../classes/tables/usage_stat.php:7
+msgid "id"
+msgstr "id"
+
+#: ../classes/frame.php:140
+msgid "You have no permissions to view this page"
+msgstr "Nincs jogosultsága az oldal megtekintéséhez"
+
+#: ../classes/html.php:242
+msgid "Upload"
+msgstr "Feltöltés"
+
+#: ../classes/html.php:610 ../modules/chat/js/admin.chat.js:561
+msgid "Default"
+msgstr "Alapbeállítás"
+
+#: ../classes/html.php:662
+msgid "ON"
+msgstr "BE"
+
+#: ../classes/html.php:663
+msgid "OFF"
+msgstr "KI"
+
+#: ../classes/html.php:687
+#, php-format
+msgid "Select %s"
+msgstr "%s kijelölése"
+
+#: ../classes/installer.php:567
+msgid "Consultant"
+msgstr "Tanácsadó"
+
+#: ../classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr "%s-hoz a fájlok mozgatása meghiúsult"
+
+#: ../classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr "%s nem bővítmény modul"
+
+#: ../classes/modInstaller.php:76
+msgid "Cannot create module directory. Try to set permission to "
+msgstr ""
+"Nem lehet létrehozni könyvtárat a modulhoz. Állítsa be a jogosultságot:"
+
+#: ../classes/modInstaller.php:104
+msgid "No modules were found in XML file"
+msgstr "Nem található modul az XML fájlban"
+
+#: ../classes/modInstaller.php:108
+msgid "Invalid XML file"
+msgstr "Érvénytelen XML fájl"
+
+#: ../classes/modInstaller.php:110
+msgid "No XML file were found"
+msgstr "Nincs XML fájl"
+
+#: ../classes/modInstaller.php:123
+#, fuzzy
+#| msgid "No modules were found in XML file"
+msgid "No modules were found in installation file"
+msgstr "Nem található modul az XML fájlban"
+
+#: ../classes/modInstaller.php:127
+#, fuzzy
+#| msgid "No XML file were found"
+msgid "No installation file were found"
+msgstr "Nincs XML fájl"
+
+#: ../classes/modInstaller.php:149
+#, php-format
+msgid "Install %s failed"
+msgstr "%s telepítése sikertelen"
+
+#: ../classes/modInstaller.php:155
+msgid "Error Activate module"
+msgstr "A modul aktiválásakor hiba keletkezett"
+
+#: ../classes/modInstaller.php:184
+msgid "Error Deactivation module"
+msgstr "A modul inaktiválásakor hiba keletkezett"
+
+#: ../classes/modInstaller.php:201
+msgid "Error Activating module"
+msgstr "A modul aktiválásakor hiba keletkezett"
+
+#: ../classes/model.php:180 ../classes/model.php:192
+#: ../modules/chat/models/chat_templates.php:117
+#: ../modules/chat/models/chat_templates.php:129
+msgid "Database error detected"
+msgstr "Adatbázishiba észlelése"
+
+#: ../classes/model.php:182 ../modules/chat/models/chat_templates.php:119
+#: ../modules/chat/models/chat_templates.php:271
+#: ../modules/statistics/models/statistics.php:118
+#: ../modules/statistics/models/statistics.php:149
+msgid "Invalid ID"
+msgstr "Érvénytelen azonosító"
+
+#: ../classes/model.php:222
+msgid "Empty or invalid ID"
+msgstr "Üres vagy érvénytelen azonosító"
+
+#: ../classes/table.php:277
+msgid "Nothing to update"
+msgstr "Nincs frissebb verzió"
+
+#: ../classes/table.php:293
+msgid "Database error. Please contact your developer."
+msgstr "Adatbázishiba. Lépjen kapcsolatba a fejlesztővel."
+
+#: ../classes/tables/modules.php:7 ../classes/tables/modules_type.php:8
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:111
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:162
+msgid "Label"
+msgstr "Címke"
+
+#: ../classes/tables/modules.php:8
+msgid "Type"
+msgstr "Típus"
+
+#: ../classes/tables/modules.php:9 ../modules/chat/js/admin.chat.agents.js:8
+msgid "Active"
+msgstr "Aktív"
+
+#: ../classes/tables/modules.php:10
+msgid "Params"
+msgstr "Paraméterek"
+
+#: ../classes/tables/modules.php:13
+msgid "Code"
+msgstr "Kód"
+
+#: ../classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "Külső bővítmény könyvtár"
+
+#: ../classes/tables/modules_type.php:7
+#: ../modules/chat/js/admin.chat.agents.js:8
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#: ../modules/chat/js/admin.chat.triggers.js:428
+msgid "ID"
+msgstr "ID"
+
+#: ../classes/tables/usage_stat.php:8
+msgid "code"
+msgstr "kód"
+
+#: ../classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr "látogatás"
+
+#: ../classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr "spent_time"
+
+#: ../classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr "modify_timestamp"
+
+#: ../classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr "%s hossza érvénytelen. A maximális hossz: %s"
+
+#: ../classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr "%s: érvénytelen a numerikus érték"
+
+#: ../classes/validator.php:71
+#: ../modules/registration/models/registration.php:53
+#: ../modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please enter %s"
+msgstr "Adja meg: %s"
+
+#: ../classes/validator.php:78
+#: ../modules/registration/models/registration.php:52
+#: ../modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please select %s"
+msgstr "Válassza ki: %s"
+
+#: ../classes/validator.php:85 ../classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr "%s érvénytelen"
+
+#: ../classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr "%s már regisztrált"
+
+#: ../js/admin.options.js:139
+msgid "Some changes were not-saved. Are you sure you want to leave?"
+msgstr ""
+
+#: ../js/core.js:204
+msgid "Really small warning :)"
+msgstr ""
+
+#: ../modules/adminmenu/mod.php:15
+#, php-format
+msgid ""
+"Cool WordPress plugins from supsystic.com developers. I tried %s - and this "
+"was what I need! #supsystic.com"
+msgstr ""
+"Kitűnő WordPress bővítmény a supsystic.com fejlesztőitől. %s-t kipróbáltam, "
+"és ez az, amire szükségem volt! #supsystic.com"
+
+#: ../modules/adminmenu/mod.php:16 ../modules/chat/mod.php:34
+msgid "Settings"
+msgstr "Beállítások"
+
+#: ../modules/adminmenu/mod.php:17
+msgid "More plugins for your WordPress site here!"
+msgstr "További bővítmények a WordPress honlapjához!"
+
+#: ../modules/adminmenu/mod.php:18 ../modules/adminmenu/mod.php:19
+#: ../modules/adminmenu/mod.php:20
+msgid "Spread the word!"
+msgstr "Terjeszd a világban!"
+
+#: ../modules/chat/controller.php:12
+msgid "Not Assigned"
+msgstr "Nincs hozzárendelve"
+
+#: ../modules/chat/controller.php:13
+msgid "Start conversation"
+msgstr "Beszélgetés indítása"
+
+#: ../modules/chat/controller.php:23
+#: ../modules/chat/models/chat_triggers.php:36
+#: ../modules/supsystic_promo/views/supsystic_promo.php:49
+#: ../modules/supsystic_promo/views/supsystic_promo.php:54
+#: ../modules/supsystic_promo/views/supsystic_promo.php:56
+#: ../modules/supsystic_promo/views/supsystic_promo.php:57
+msgid "Yes"
+msgstr "Igen"
+
+#: ../modules/chat/controller.php:23
+#: ../modules/chat/models/chat_triggers.php:37
+#: ../modules/supsystic_promo/views/supsystic_promo.php:49
+#: ../modules/supsystic_promo/views/supsystic_promo.php:54
+#: ../modules/supsystic_promo/views/supsystic_promo.php:56
+#: ../modules/supsystic_promo/views/supsystic_promo.php:57
+msgid "No"
+msgstr "Nem"
+
+#: ../modules/chat/controller.php:218
+msgid "Updating chat settings page..."
+msgstr "A beszélgetés beállítás oldal frissítése..."
+
+#: ../modules/chat/js/admin.chat.agents.js:8
+#: ../modules/chat/js/admin.chat.triggers.js:428
+#: ../modules/chat/models/chat_engines.php:43
+#: ../modules/chat/views/tpl/chatAgentPage.php:96
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:101
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:158
+#: ../modules/supsystic_promo/controller.php:186
+#: ../modules/supsystic_promo/mod.php:158
+msgid "Name"
+msgstr "Név"
+
+#: ../modules/chat/js/admin.chat.agents.js:8
+#: ../modules/chat/views/tpl/chatAgentPage.php:101
+#: ../modules/supsystic_promo/mod.php:159
+msgid "Email"
+msgstr "E-mail"
+
+#: ../modules/chat/js/admin.chat.agents.js:8
+msgid "Role"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.agents.js:8
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#, fuzzy
+#| msgid "Created"
+msgid "Date Created"
+msgstr "Létrehozva"
+
+#: ../modules/chat/js/admin.chat.agents.js:24
+msgid "Current Agent"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.agents.js:26
+#, fuzzy
+#| msgid "You have no agents for now."
+msgid "You have no Agents for now."
+msgstr "Jelenleg nincs megbízott."
+
+#: ../modules/chat/js/admin.chat.agents.js:94
+#: ../modules/chat/js/admin.chat.dashboard.js:132
+msgid "Are you sur want to remove "
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.agents.js:95
+#: ../modules/chat/js/admin.chat.dashboard.js:133
+msgid "Are you sure want to remove \""
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#: ../modules/chat/models/chat_sessions.php:144
+#: ../modules/chat/views/tpl/chatAgentPage.php:123
+#: ../modules/chat/views/tpl/chatDashboard.php:20
+msgid "Status"
+msgstr "Státus"
+
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#: ../modules/chat/models/chat_users.php:66
+msgid "User"
+msgstr "Felhasználó"
+
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#: ../modules/chat/models/chat_users.php:68
+msgid "Agent"
+msgstr "Megbízott"
+
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:54
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:421
+msgid "Actions"
+msgstr "Műveletek"
+
+#: ../modules/chat/js/admin.chat.dashboard.js:37
+#, fuzzy
+#| msgid "Start Chat!"
+msgid "Current Chat"
+msgstr "Induljon a beszélgetés!"
+
+#: ../modules/chat/js/admin.chat.dashboard.js:39
+#, fuzzy
+#| msgid "You have no agents for now."
+msgid "You have no Chats for now."
+msgstr "Jelenleg nincs megbízott."
+
+#: ../modules/chat/js/admin.chat.js:389
+msgid "You you sure want to change you curent chat template - to \""
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.js:514
+msgid "IPs are blocked"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.js:515
+msgid "No IPs are currently in block list"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.js:535
+msgid "How make Chat appear after click on your content link"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.triggers.js:10
+msgid "Are you sure want to cancell your changes?"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.triggers.js:346
+msgid "Are you sure want to remove this trigger?"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.triggers.js:408
+#: ../modules/chat/js/admin.chat.triggers.js:411
+#, fuzzy
+#| msgid "Enable"
+msgid "Enabled"
+msgstr "Engedélyez"
+
+#: ../modules/chat/js/admin.chat.triggers.js:409
+#: ../modules/chat/js/admin.chat.triggers.js:411
+msgid "Disabled"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.triggers.js:428
+#, fuzzy
+#| msgid "Actions"
+msgid "Action"
+msgstr "Műveletek"
+
+#: ../modules/chat/js/admin.chat.triggers.js:440
+#, fuzzy
+#| msgid "Pre-Chats Triggers"
+msgid "Current Trigger"
+msgstr "Eseményindítók"
+
+#: ../modules/chat/js/admin.chat.triggers.js:443
+#, fuzzy
+#| msgid "You have no agents for now."
+msgid "You have no Triggers for now."
+msgstr "Jelenleg nincs megbízott."
+
+#: ../modules/chat/js/chat.core.js:601
+msgid "You"
+msgstr ""
+
+#: ../modules/chat/mod.php:454 ../modules/chat/mod.php:455
+msgid "Live Chat Dashboard"
+msgstr "Live Chat vezérlőpult"
+
+#: ../modules/chat/models/chat.php:60
+#, php-format
+msgid "Chat from %s"
+msgstr "Beszélgetés a következőtől: %s"
+
+#: ../modules/chat/models/chat.php:69
+msgid "Empty content"
+msgstr "Üres tartalom"
+
+#: ../modules/chat/models/chat.php:71
+msgid "Empty email"
+msgstr "Üres email"
+
+#: ../modules/chat/models/chat_engines.php:12
+msgid "Default Engine"
+msgstr "Alapbeállított motor"
+
+#: ../modules/chat/models/chat_engines.php:42
+#: ../modules/supsystic_promo/controller.php:185
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: ../modules/chat/models/chat_engines.php:175
+msgid "Hmm, something is missing here?"
+msgstr "Hmm, valami nem hiányzik innen?"
+
+#: ../modules/chat/models/chat_messages.php:92
+#: ../modules/chat/models/chat_messages.php:117
+msgid "Please enter something"
+msgstr "Adjon meg valamit"
+
+#: ../modules/chat/models/chat_messages.php:94
+#: ../modules/chat/models/chat_messages.php:119
+#: ../modules/chat/models/chat_sessions.php:222
+#: ../modules/chat/models/chat_users.php:129
+msgid "Something is missing here"
+msgstr "Valami hiányzik innen"
+
+#: ../modules/chat/models/chat_sessions.php:41
+msgid "Pending"
+msgstr "Várakozik"
+
+#: ../modules/chat/models/chat_sessions.php:42
+msgid "In Progress"
+msgstr "Folyamatban"
+
+#: ../modules/chat/models/chat_sessions.php:43
+msgid "Complete"
+msgstr "Befejezve"
+
+#: ../modules/chat/models/chat_sessions.php:44
+msgid "User Gone"
+msgstr "Felhasználó elment"
+
+#: ../modules/chat/models/chat_sessions.php:45
+msgid "Cancelled"
+msgstr "Megszakítva"
+
+#: ../modules/chat/models/chat_sessions.php:118
+msgid "New chat started notification"
+msgstr "Új beszélgetés indításának értesítője"
+
+#: ../modules/chat/models/chat_sessions.php:121
+#, php-format
+msgid "New chat started on %s"
+msgstr "%s honlapon új beszélgetés indult"
+
+#: ../modules/chat/models/chat_sessions.php:122
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:63
+msgid ""
+"New chat was started on your site <a href=\"[siteurl]\">[sitename]</a>.<br /"
+"><b>User information:</b><br />[user_data]<br /><b>Session information:</"
+"b><br />[session_data]<br />"
+msgstr ""
+"<a href=\"[siteurl]\">[sitename]</a> honlapon új beszélgetés indult. <br/>  "
+"<b>Felhasználói adatok:</b><br />[user_data]<br /><b>Munkamenet adatok:</"
+"b><br />[session_data]<br />"
+
+#: ../modules/chat/models/chat_sessions.php:145
+#: ../modules/chat/views/tpl/chatAgentPage.php:119
+msgid "IP"
+msgstr "IP"
+
+#: ../modules/chat/models/chat_sessions.php:146
+#: ../modules/chat/models/chat_triggers.php:20
+msgid "URL"
+msgstr "URL"
+
+#: ../modules/chat/models/chat_sessions.php:147
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:348
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:421
+msgid "Date"
+msgstr "Dátum"
+
+#: ../modules/chat/models/chat_sessions.php:158
+msgid "No user data"
+msgstr "Nincs felhasználói adat"
+
+#: ../modules/chat/models/chat_sessions.php:159
+msgid "No session data available"
+msgstr "Nincs munkamenet adat"
+
+#: ../modules/chat/models/chat_templates.php:89
+msgid "img/preview/"
+msgstr "img/preview/"
+
+#: ../modules/chat/models/chat_templates.php:186
+#: ../modules/chat/models/chat_templates.php:302
+msgid "Provided data was corrupted"
+msgstr "A megadott adat hibás volt"
+
+#: ../modules/chat/models/chat_templates.php:273
+msgid "Please enter Name"
+msgstr "Adjon meg Nevet"
+
+#: ../modules/chat/models/chat_templates.php:300
+msgid "Con not find required templates"
+msgstr "A kívánt sablon nem található"
+
+#: ../modules/chat/models/chat_triggers.php:15
+msgid "Agent Online"
+msgstr "Megbízott online"
+
+#: ../modules/chat/models/chat_triggers.php:16
+msgid "Pages / Posts"
+msgstr "Oldalak/Bejegyzések"
+
+#: ../modules/chat/models/chat_triggers.php:17
+msgid "For Countries"
+msgstr "Országokhoz"
+
+#: ../modules/chat/models/chat_triggers.php:18
+msgid "Hour of the Day"
+msgstr "Nap órája"
+
+#: ../modules/chat/models/chat_triggers.php:19
+msgid "Day of the Week"
+msgstr "Hét napja"
+
+#: ../modules/chat/models/chat_triggers.php:21
+msgid "Time spent on Page"
+msgstr "Oldalon eltöltött idő"
+
+#: ../modules/chat/models/chat_triggers.php:22
+msgid "On Exit"
+msgstr "Kilépéskor"
+
+#: ../modules/chat/models/chat_triggers.php:30
+msgid "More then"
+msgstr "Több mint"
+
+#: ../modules/chat/models/chat_triggers.php:31
+msgid "Less then"
+msgstr "Kevesebb mint"
+
+#: ../modules/chat/models/chat_triggers.php:32
+msgid "Equal"
+msgstr "Egyenlő"
+
+#: ../modules/chat/models/chat_triggers.php:33
+msgid "Not equal"
+msgstr "Nem egyenlő"
+
+#: ../modules/chat/models/chat_triggers.php:34
+msgid "Like"
+msgstr "Hasonló"
+
+#: ../modules/chat/models/chat_triggers.php:35
+msgid "Not like"
+msgstr "Nem olyan mint"
+
+#: ../modules/chat/models/chat_triggers.php:46
+msgid "Show eye catcher"
+msgstr "Tekintetvonzó megjelenítése"
+
+#: ../modules/chat/models/chat_triggers.php:47
+msgid "Auto start chat"
+msgstr "Beszélgetés aut. indítása"
+
+#: ../modules/chat/models/chat_triggers.php:48
+msgid "Auto open chat"
+msgstr "Beszélgetés aut. megnyitása"
+
+#: ../modules/chat/models/chat_triggers.php:105
+msgid "Please select at least one action for trigger"
+msgstr "Válasszon ki legalább egy műveletet az esemény indításához"
+
+#: ../modules/chat/models/chat_triggers.php:107
+msgid "Please enter trigger name"
+msgstr "Adjon meg egy nevet az eseményindítónak"
+
+#: ../modules/chat/models/chat_users.php:67
+msgid "Admin"
+msgstr "Adminisztrátor"
+
+#: ../modules/chat/models/chat_users.php:69
+msgid "Bot"
+msgstr "Robot"
+
+#: ../modules/chat/models/chat_users.php:127
+msgid "Name can not be empty"
+msgstr "A név nem lehet üres"
+
+#: ../modules/chat/views/chat.php:51 ../modules/chat/views/chat.php:255
+msgid "None"
+msgstr "Nincs"
+
+#: ../modules/chat/views/chat.php:52
+msgid "Image"
+msgstr "Kép"
+
+#: ../modules/chat/views/chat.php:53
+msgid "Color"
+msgstr "Szín"
+
+#: ../modules/chat/views/chat.php:57
+msgid "Mobile"
+msgstr "Mobil"
+
+#: ../modules/chat/views/chat.php:58
+msgid "Tablet"
+msgstr "Tablet"
+
+#: ../modules/chat/views/chat.php:59
+msgid "Desktop PC"
+msgstr "Asztali gép"
+
+#: ../modules/chat/views/chat.php:78
+msgid "Main Home page"
+msgstr "Fő honlap"
+
+#: ../modules/chat/views/chat.php:152
+msgid "Appearance"
+msgstr "Megjelenítés"
+
+#: ../modules/chat/views/chat.php:157
+msgid "Texts"
+msgstr "Szövegek"
+
+#: ../modules/chat/views/chat.php:165
+msgid "Design"
+msgstr "Dizájn"
+
+#: ../modules/chat/views/chat.php:170
+msgid "When show"
+msgstr "Megjelenítéskor"
+
+#: ../modules/chat/views/chat.php:175
+msgid "Pre-Chats Triggers"
+msgstr "Eseményindítók"
+
+#: ../modules/chat/views/chat.php:180
+msgid "User Registration"
+msgstr "Felhasználó regisztráció"
+
+#: ../modules/chat/views/chat.php:185
+msgid "Notifications"
+msgstr "Értesítések"
+
+#: ../modules/chat/views/chat.php:190
+msgid "Agents"
+msgstr "Megbízottak"
+
+#: ../modules/chat/views/chat.php:195
+msgid "CSS / HTML Code"
+msgstr "CSS/HTLM kód"
+
+#: ../modules/chat/views/chat.php:274
+msgid "Text"
+msgstr "Szöveg"
+
+#: ../modules/chat/views/chat.php:275
+msgid "Text area"
+msgstr "Szövegdoboz"
+
+#: ../modules/chat/views/chat.php:276
+msgid "Selectbox"
+msgstr "Választógomb"
+
+#: ../modules/chat/views/chat.php:277
+msgid "Checkbox"
+msgstr "Jelölőnégyzet"
+
+#: ../modules/chat/views/chat.php:278
+msgid "Hidden Field"
+msgstr "Rejtett mező"
+
+#: ../modules/chat/views/chat.php:309
+msgid "Bounce"
+msgstr "Pattanó"
+
+#: ../modules/chat/views/chat.php:310
+msgid "Bounce Up"
+msgstr "Felpattanás"
+
+#: ../modules/chat/views/chat.php:311
+msgid "Bounce Down"
+msgstr "Lepattanás"
+
+#: ../modules/chat/views/chat.php:312
+msgid "Bounce Left"
+msgstr "Balra pattanás"
+
+#: ../modules/chat/views/chat.php:313
+msgid "Bounce Right"
+msgstr "Jobbra pattanás"
+
+#: ../modules/chat/views/chat.php:315
+msgid "Fade"
+msgstr "Fokozatos megjelenés"
+
+#: ../modules/chat/views/chat.php:316
+msgid "Fade Up"
+msgstr "Fokozatos megjelenés felfelé"
+
+#: ../modules/chat/views/chat.php:317
+msgid "Fade Down"
+msgstr "Fokozatos megjelenés lefelé"
+
+#: ../modules/chat/views/chat.php:318
+msgid "Fade Left"
+msgstr "Fokozatos megjelenés balra"
+
+#: ../modules/chat/views/chat.php:319
+msgid "Fade Right"
+msgstr "Fokozatos megjelenés jobbra"
+
+#: ../modules/chat/views/chat.php:321
+msgid "Flip X"
+msgstr "Lapozás"
+
+#: ../modules/chat/views/chat.php:322
+msgid "Flip Y"
+msgstr "Felcsapódás"
+
+#: ../modules/chat/views/chat.php:324
+msgid "Rotate"
+msgstr "Forgás"
+
+#: ../modules/chat/views/chat.php:325
+msgid "Rotate Up Left"
+msgstr "Forgás balra fel"
+
+#: ../modules/chat/views/chat.php:326
+msgid "Rotate Up Right"
+msgstr "Forgás Jobbra fel"
+
+#: ../modules/chat/views/chat.php:327
+msgid "Rotate Down Left"
+msgstr "Forgás balra le"
+
+#: ../modules/chat/views/chat.php:328
+msgid "Rotate Down Right"
+msgstr "Forgás jobbra le"
+
+#: ../modules/chat/views/chat.php:330
+msgid "Slide Up"
+msgstr "Felúsztatás"
+
+#: ../modules/chat/views/chat.php:331
+msgid "Slide Down"
+msgstr "Leúsztatás"
+
+#: ../modules/chat/views/chat.php:332
+msgid "Slide Left"
+msgstr "Balra úsztatás"
+
+#: ../modules/chat/views/chat.php:333
+msgid "Slide Right"
+msgstr "Jobbra úsztatás"
+
+#: ../modules/chat/views/chat.php:335
+msgid "Zoom"
+msgstr "Nagyítás"
+
+#: ../modules/chat/views/chat.php:336
+msgid "Zoom Up"
+msgstr "Nagyítás felfelé"
+
+#: ../modules/chat/views/chat.php:337
+msgid "Zoom Down"
+msgstr "Nagyítás lefelé"
+
+#: ../modules/chat/views/chat.php:338
+msgid "Zoom Left"
+msgstr "Nagyítás balról"
+
+#: ../modules/chat/views/chat.php:339
+msgid "Zoom Right"
+msgstr "Nagyítás jobbról"
+
+#: ../modules/chat/views/chat.php:341
+msgid "Light Speed"
+msgstr "Befékezés"
+
+#: ../modules/chat/views/chat.php:342
+msgid "Rolling!"
+msgstr "Begördülés!"
+
+#: ../modules/chat/views/chat.php:420
+msgid "Print"
+msgstr "Nyomtatás"
+
+#: ../modules/chat/views/chat.php:421
+msgid "Send to email"
+msgstr "Email küldés"
+
+#: ../modules/chat/views/chat.php:422
+msgid "Switch sound"
+msgstr "Hang kapcsolása"
+
+#: ../modules/chat/views/chat.php:474
+msgid "Enter your email here"
+msgstr "Adja meg itt az e-mailcímet"
+
+#: ../modules/chat/views/chat.php:475
+#: ../modules/chat/views/tpl/chatSettingsTopFormControls.php:4
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:17
+#: ../modules/mail/views/tpl/mailAdmin.php:69
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:6
+msgid "Save"
+msgstr "Mentés"
+
+#: ../modules/chat/views/chat.php:476
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:7
+msgid "Cancell"
+msgstr "Mégsem"
+
+#: ../modules/chat/views/chat.php:553
+msgid "Top Left"
+msgstr "Balra fent"
+
+#: ../modules/chat/views/chat.php:554
+msgid "Top Center"
+msgstr "Középen fent"
+
+#: ../modules/chat/views/chat.php:555
+msgid "Top Right"
+msgstr "Jobbra fent"
+
+#: ../modules/chat/views/chat.php:557
+msgid "Bottom Left"
+msgstr "Balra lent"
+
+#: ../modules/chat/views/chat.php:558
+msgid "Bottom Center"
+msgstr "Középen lent"
+
+#: ../modules/chat/views/chat.php:559
+msgid "Bottom Right"
+msgstr "Jobbra lent"
+
+#: ../modules/chat/views/chat.php:575
+msgid "All"
+msgstr "Összes"
+
+#: ../modules/chat/views/chat.php:586
+msgid "Can not find Session"
+msgstr "Munkamenet nem található"
+
+#: ../modules/chat/views/chat.php:591
+#: ../modules/registration/models/registration.php:31
+msgid "Can not find Engine"
+msgstr "Motor nem található"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:3
+msgid "Agents Support"
+msgstr "Megbízottak támogatás"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:49
+msgid "Chat"
+msgstr "Beszélgetés"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:80
+#: ../modules/supsystic_promo/controller.php:192
+msgid "Send"
+msgstr "Küldés"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:92
+msgid "User Data"
+msgstr "Felhasználó adatai"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:106
+msgid "Chat Session Data"
+msgstr "Beszélgetés munkamenet adatai"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:109
+msgid "Created"
+msgstr "Létrehozva"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:114
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:131
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:154
+msgid "From"
+msgstr "Kezdés:"
+
+#: ../modules/chat/views/tpl/chatDashboard.php:10
+#: ../modules/chat/views/tpl/chatDashboard.php:13
+#: ../modules/chat/views/tpl/chatSettingsAgents.php:7
+msgid "Delete selected"
+msgstr "Kijelöltek törlése"
+
+#: ../modules/chat/views/tpl/chatDashboard.php:17
+#: ../modules/chat/views/tpl/chatDashboard.php:18
+msgid "Search"
+msgstr "Keresés"
+
+#: ../modules/chat/views/tpl/chatDashboard.php:30
+msgid "Refresh"
+msgstr "Frissítés"
+
+#: ../modules/chat/views/tpl/chatDashboard.php:40
+msgid "You have no active Chats for now."
+msgstr "Jelenleg nincs aktív beszélgetése."
+
+#: ../modules/chat/views/tpl/chatExtraUserFields.php:4
+msgid "Live Chat Agent"
+msgstr "Live Chat megbízott"
+
+#: ../modules/chat/views/tpl/chatExtraUserFields.php:9
+msgid "You can make anyone - agent for your live chat"
+msgstr "Bárkit megbízottá tehet a beszélgetésekhez"
+
+#: ../modules/chat/views/tpl/chatSettingsAdmin.php:72
+msgid "Loading preview..."
+msgstr "Előnézet betöltése..."
+
+#: ../modules/chat/views/tpl/chatSettingsAdmin.php:77
+msgid "Back to top"
+msgstr "Tetejéhez"
+
+#: ../modules/chat/views/tpl/chatSettingsAgents.php:3
+msgid "Add New Agent"
+msgstr "Új megbízott hozzáadása"
+
+#: ../modules/chat/views/tpl/chatSettingsAgents.php:13
+msgid "You have no agents for now."
+msgstr "Jelenleg nincs megbízott."
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:3
+#, php-format
+msgid ""
+"Edit this ONLY if you know basics of HTML, CSS and have been acquainted with "
+"the rules of template editing described <a target=\"_blank\" href=\"%s"
+"\">here</a>"
+msgstr ""
+"CSAK akkor módosítsa, ha van HTML és CSS alapismerete, és megismerte a "
+"sablonszerkesztés szabályait, ami <a target=\"_blank\" href=\"%s\">itt "
+"található</a>"
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:7
+msgid "CSS code"
+msgstr "CSS kód"
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:8
+msgid "Update CSS code to latest version from original template"
+msgstr "A CSS kód frissítése a legutolsó verzióra az eredeti sablonból"
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:10
+#: ../modules/chat/views/tpl/chatSettingsCode.php:20
+msgid "Update from Default"
+msgstr "Frissítés az alapértelmezettből"
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:17
+msgid "HTML code"
+msgstr "HTML kód"
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:18
+msgid "Update HTML code to latest version from original template"
+msgstr "A HTML kód frissítése a legutolsó verzióra az eredeti sablonból"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:3
+msgid "Chat Position"
+msgstr "Beszélgetőpanel helye"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:5
+msgid "Position of your chat on user screen"
+msgstr "A beszélgetőpanel elhelyezése a képernyőn"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:15
+msgid "Width"
+msgstr "Szélesség"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:17
+msgid "Width of your chat window"
+msgstr "A beszélgetőpanel szélessége"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:21
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:39
+msgid "Max width for percentage - is 100"
+msgstr "Maximális szélesség %-ban: 100"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:23
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:43
+msgid "Percents"
+msgstr "Százalék"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:27
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:49
+msgid "Pixels"
+msgstr "Pixel"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:32
+msgid "Height of Messages box"
+msgstr "Üzenetablak magassága"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:34
+msgid "Maximum height for messages box in Chat"
+msgstr "Az üzenetablak maximális mérete a beszélgetőpanelen"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:54
+msgid "Chat Bar padding"
+msgstr "Beszélgetőpanel kerete"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:56
+msgid "Chat bar offset from the edge of the screen"
+msgstr "Beszélgetőpanel és a képernyő széle közötti távolság"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:65
+msgid "Main Theme Color"
+msgstr "Fő téma színe"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:67
+msgid "Main color will define main theme design"
+msgstr "A fő szín fogja definiálni a fő téma stílusát"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:74
+msgid "Main Theme Titles Color"
+msgstr "Fő téma címsorok színe"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:76
+msgid "Main color for all text titles on your chat"
+msgstr "A fő színnel fog az összes címsor megjelenni a beszélgetőpanelen"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:83
+msgid "Main Background Color"
+msgstr "Fő háttérszín"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:85
+msgid "Main background color for your chat window"
+msgstr "A beszélgetőpanel hátterének a színe"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:92
+msgid "Main Text Color"
+msgstr "Fő szövegszín"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:94
+msgid "Main color for all text in your chat messages and texts"
+msgstr "A fő szín az összes szövegnél a beszélgetőpanelen és más szövegnél"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:101
+msgid "Main Font Family"
+msgstr "Fő betűtípus"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:103
+msgid "You can select font type for your Chat here"
+msgstr "A beszélgetéseknél használt betűtípus"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:114
+msgid "Draggable"
+msgstr "Odébb húzható"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:116
+msgid "Allow users to drag chat screen in any place of browser window"
+msgstr ""
+"A felhasználók a beszélgetőpanelt áthelyezhetik máshova a böngésző ablakában"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:121
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:133
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:150
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:162
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:10
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:31
+msgid "Enable"
+msgstr "Engedélyez"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:126
+msgid "Enable Agent avatar"
+msgstr "Megbízott avatar engedélyezése"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:128
+msgid "Enable agent avatar when this is possible to display in Chat window."
+msgstr ""
+"A megbízott avatarának engedélyezése - amikor ez lehetséges - a beszélgető "
+"ablakban."
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:139
+msgid "Enable Rating"
+msgstr "Értékelés engedélyezése"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:141
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:58
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:139
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:33
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:84
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:52
+msgid "PRO option"
+msgstr "PRO funkció"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:145
+#, php-format
+msgid ""
+"Enable agent Rating buttons. If enabled - user will be able to rate agent, "
+"and you will see - who is best agent from your team. <img src=\"%s\" />"
+msgstr ""
+"Megbízott Értékelés gombjának engedélyezése. Ha engedélyezve van, a "
+"felhasználó értékelheti a megbízottat, és Ön láthatja, hogy ki a legjobb "
+"megbízott a csapatban. <img src=\"%s\" />"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:155
+msgid "Enable additonal chat options"
+msgstr "Egyéb funkciók használatának engedélyezése"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:157
+msgid ""
+"Buttons that allow disable sound, or print chat conversation from frontend "
+"for example."
+msgstr ""
+"Nyomógombok, amelyekkel ki lehet kapcsolni a hangot, vagy a felhasználó "
+"kinyomtathatja a beszélgetést."
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:4
+msgid "Chat Bar Title Text"
+msgstr "Beszélgetőpanel címszövege"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:6
+msgid "Text on your chat bar that user will see before chat opens"
+msgstr ""
+"Az a szöveg, amit a felhasználó lát, mielőtt a beszélgetőpanel kinyílik"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:14
+msgid "\"Send Message\" button text"
+msgstr "\"Üzenet küldése\" gomb szövege"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:16
+msgid "Text for main send button in your chat"
+msgstr "A fő küldés gombon lévő szöveg a beszélgetőpanelen"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:23
+msgid "\"Wait\" message"
+msgstr "\"Várj\" szövege"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:25
+msgid "Message that users will see before operator will start chat"
+msgstr ""
+"Az a szöveg, amit a felhasználó lát, mielőtt az operátor hozzákezd a "
+"beszélgetéshez"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:34
+msgid "Chat header text"
+msgstr "Beszélgetőpanel fejrész szövege"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:36
+msgid "You can add some text to the header of your main chat section"
+msgstr ""
+"Megjelenítheti ezt a szöveget a beszélgetőpanel fő területének fejrészében"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:45
+msgid "Complete chat text"
+msgstr "A beszélgetés befejezésének szövege"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:47
+msgid "Text that users will see after chat will be completed"
+msgstr ""
+"A szöveg, amit a felhasználó akkor lát, amikor a beszélgetést az operátor "
+"berekeszti"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:57
+msgid "\"Operator joined chat\" message"
+msgstr "\"Egy operátor csatlakozott a beszélgetéshez\" üzenet"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:58
+msgid ""
+"Use [name] tag in this field, it will be replaced to operator name in chat "
+"session"
+msgstr ""
+"Amennyiben a [name] címkét használja ebben a mezőben, az operátor nevét "
+"jeleníti meg a beszélgetés alatt"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:61
+msgid "Text that will show when operator is joined user chat"
+msgstr ""
+"Az a szöveg, ami megjelenik, amikor egy operátor bekapcsolódik egy "
+"felhasználó beszélgetésébe"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:71
+msgid "Default text for message field"
+msgstr "Alapértelmezett szöveg az üzenet mezőhöz"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:74
+msgid ""
+"This text will be placed in message text (placeholder) to indicate where "
+"exactly user should start print his message"
+msgstr ""
+"Ez a szöveg fog megjelenni az üzenetablakban, hogy mutassa, hova írhatja a "
+"felhasználó az üzenetét"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:78
+#: ../modules/supsystic_promo/controller.php:202
+msgid "Ask me here..."
+msgstr "Ide írhat..."
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:83
+msgid "\"Register\" button text"
+msgstr "\"Regisztrálás\" gomb szövege"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:85
+msgid "Text that will appear on your registration button"
+msgstr "A regisztrációs gombon megjelenő szöveg"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:94
+msgid "Before registration message text"
+msgstr "Regisztrálás előtti üzenet szövege"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:96
+msgid "Text that will appear on registration form if registration is enabled"
+msgstr ""
+"A regisztrációs űrlapon megjelenő szöveg, ha a regisztráció be van kapcsolva"
+
+#: ../modules/chat/views/tpl/chatSettingsDesign.php:3
+msgid "Choose Chat Template"
+msgstr "Beszélgetőpanel sablon"
+
+#: ../modules/chat/views/tpl/chatSettingsDesign.php:44
+msgid "Select your chat design"
+msgstr "Válassza ki a beszélgetőpanel stílusát"
+
+#: ../modules/chat/views/tpl/chatSettingsDesign.php:52
+msgid "Get in PRO"
+msgstr "A PRO verzióban"
+
+#: ../modules/chat/views/tpl/chatSettingsDesign.php:54
+msgid "Selected"
+msgstr "Kijelölve"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:3
+msgid "Sound Notification"
+msgstr "Hangjelzés"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:5
+msgid ""
+"Sound that will be played for your users and support agents once new message "
+"is arrived."
+msgstr ""
+"Hang, amit lejátszik a felhasználónak, és figyelmezteti a megbízottat, "
+"amikor egy új üzenet érkezett."
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:14
+msgid "Select Sound"
+msgstr "Hang kiválasztása"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:18
+msgid "Set default"
+msgstr "Alapértelmezett beállítása"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:24
+msgid "Auto update Dashboard"
+msgstr "Vezérlőpult automatikus frissítése"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:26
+msgid ""
+"Periodically auto update Agents Dashboard - to check new chat sessions in "
+"auto mode. Once new message will arrive - sound notification will be "
+"triggered."
+msgstr ""
+"Időszakosan automatikusan frissíti a Megbízott vezérlőpultját, hogy "
+"ellenőrizze, nincs-e új beszélgetés munkamenet az aut. módban. Amikor egy új "
+"üzenet érkezik, az egy hanghatást vált ki."
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:37
+msgid "New chat start notification"
+msgstr "Új beszélgetés indításának értesítése"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:40
+msgid ""
+"Enter the email addresses that should receive notifications (separate by "
+"comma) about new chat start. Leave it blank - and you will not get any "
+"notifications."
+msgstr ""
+"Adja meg az e-mail címeket vesszővel elválasztva, ahova az értesítéseket "
+"küldeni kell, ha egy új beszélgetést kezdeményeztek. Hagyja üresen, ha nem "
+"akar értesítést küldeni."
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:52
+msgid "New chat start email text"
+msgstr "E-mail szövege új beszélgetés indításakor"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:54
+#, php-format
+msgid "You can use next variables here: %s"
+msgstr "A következő változókat használhatja itt: %s"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:57
+msgid "Message that you will receive about new chat start on your site."
+msgstr ""
+"Az az üzenet, amelyet elküld a rendszer, amikor egy új beszélgetést "
+"kezdeményeztek a honlapon."
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:1
+msgid "Fully disable registration for your chat"
+msgstr "A regisztráció teljes mértékben le van tiltva a beszélgetésnél"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:6
+msgid "No Registration"
+msgstr "Nincs regisztráció"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:8
+msgid "Registration will be enabled, but not required"
+msgstr "A regisztráció engedélyezett, de nem kötelező"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:13
+msgid "Ask for Registration"
+msgstr "Regisztrálhat"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:15
+msgid ""
+"Registration will required: user will not be able to start chat without it"
+msgstr ""
+"A regisztráció kötelező lesz: a felhasználó nem tud beszélgetést "
+"kezdeményezni e nélkül"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:20
+msgid "Required"
+msgstr "Kötelező"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:47
+msgid "Registration Fields"
+msgstr "Regisztrációs mezők"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:49
+msgid ""
+"To change field position - just drag-&-drop it to required place between "
+"other fields. To add new field to Subscribe form - click on \"+ Add\" button."
+msgstr ""
+"A mezők sorrendjének megváltoztatásához húzza az elemeket a megfelelő "
+"helyre.  Ha új mezőt akar elhelyezni a feliratkozási űrlapon, kattintson a "
+"\"+ Hozzáad\" gombra."
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:54
+msgid "Add"
+msgstr "Hozzáad"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:84
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:88
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:165
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:97
+msgid "Field Settings"
+msgstr "Mező beállítások"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:103
+#, php-format
+msgid ""
+"Name (key) for your field. This parameter is for system - to be able to "
+"determine the field. Use here only latin letters, numbers, symbols -_+ and "
+"space. For more info about this parameter - your can check <a href=\"%s\" "
+"target=\"_blank\">this page</a>."
+msgstr ""
+"Név (kulcs) a mezőhöz. Ez a paraméter a rendszer számára szükséges, ez "
+"határozza meg a mezőt. Csak latin betűket, számokat és a -_+ jeleket, "
+"valamint szóközt használhat. További információkat erről a paraméterről <a "
+"href=\"%s\" target=\"_blank\">itt olvashat</a>."
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:112
+msgid "Label that will be visible for your users."
+msgstr "Címke, ami megjelenik a felhasználóknak."
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:120
+msgid "Value"
+msgstr "Érték"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:121
+msgid "Default value for your field"
+msgstr "Alapértelmezett érték a mezőhöz"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:129
+msgid "HTML Type"
+msgstr "HTML típus"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:130
+msgid "Input HTML type"
+msgstr "Adja meg a HTML típusát"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:146
+msgid "Select Options"
+msgstr "Válasszon"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:174
+msgid "Mandatory"
+msgstr "Kötelező"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:175
+msgid ""
+"Is this field mandatory to fill-in. If yes - then users will not be able to "
+"continue without filling-in this field."
+msgstr ""
+"Ezt a mezőt kötelező lesz kitölteni, a felhasználó nem tudja folytatni a "
+"kitöltése nélkül."
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:186
+msgid "Registration Field Settings"
+msgstr "Regisztrációs mező beállításai"
+
+#: ../modules/chat/views/tpl/chatSettingsTopFormControls.php:2
+msgid "Save all changes"
+msgstr "Összes változás mentése"
+
+#: ../modules/chat/views/tpl/chatSettingsTopFormControls.php:8
+msgid "Preview"
+msgstr "ELőnézet"
+
+#: ../modules/chat/views/tpl/chatSettingsTopFormControls.php:11
+msgid "Turn Off"
+msgstr "Kikapcsol"
+
+#: ../modules/chat/views/tpl/chatSettingsTopFormControls.php:12
+msgid "Turn On"
+msgstr "Bekapcsol"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:4
+msgid "Add Trigger"
+msgstr "Eseményindító hozzáadása"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:12
+msgid "Trigger Name"
+msgstr "Eseményindító neve"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:19
+msgid "Conditions"
+msgstr "Feltételek"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:81
+msgid "Animation type"
+msgstr "Animáció típusa"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:94
+msgid "Animation speed"
+msgstr "Animáció sebessége"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:101
+msgid "ms"
+msgstr "ms"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:110
+msgid "Default message for auto-opened chat"
+msgstr "Alapértelmezett szöveg az aut. megnyíló beszélgetőpanelhez"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:128
+msgid ""
+"You have no triggers for now. You can simply click <a href=\"#\" class="
+"\"lcsChatTriggersAddBtn\">here</a> to add new one, or on button above."
+msgstr ""
+"Nincs eseményindító beállítva. <a href=\"#\" class=\"lcsChatTriggersAddBtn"
+"\">Idekattintva</a> létrehozhat egyet, vagy ha a fenti gombra kattint."
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:137
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:109
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:118
+msgid "Choose Pages"
+msgstr "Oldalak kiválasztása"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:140
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:280
+msgid "Choose countries"
+msgstr "Országok kiválasztása"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:146
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:176
+msgid "Choose week days"
+msgstr "Hét napjainak kiválasztása"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:151
+msgid "Min"
+msgstr "perc"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:155
+msgid "Sec"
+msgstr "mp"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:2
+msgid "When to show Chat"
+msgstr "Beszélgetéspanel megjelenítése"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:8
+msgid "When page loads"
+msgstr "Amikor az oldalak betöltődnek"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:13
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:60
+msgid "Delay for"
+msgstr "Késleltetés"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:20
+msgid "Seconds"
+msgstr "másodpercig"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:20
+msgid "sec"
+msgstr "mp-ig"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:27
+msgid "User click on the page"
+msgstr "Felhasználó az oldalra kattint"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:33
+msgid "Click on certain link / button / other element"
+msgstr "Bizonyos linkre/gombra/más elemre kattint"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:36
+msgid "Copy & paste next code - into required link to open Chat on Click"
+msgstr ""
+"Másolja be a következő kódot a kívánt linkbe, hogy megnyissa a "
+"beszélgetőpanelt a rákattintásakor"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:39
+#, php-format
+msgid ""
+"Check screenshot with details - <a onclick=\"lcsShowTipScreenPopUp(this); "
+"return false;\" href=\"%s\">here</a>."
+msgstr ""
+"Nézze meg a képernyőképet a részletekhez <a onclick="
+"\"lcsShowTipScreenPopUp(this); return false;\" href=\"%s\">itt</a>."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:41
+msgid ""
+"Or, if you know HTML basics, - you can insert \"onclick\" attribute to any "
+"of your element from code below"
+msgstr ""
+"Vagy ha ismeri a HTML alapjait, beillesztheti a következő \"onclick\" "
+"attribútumot bármely elembe"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:45
+msgid "Or you can even use it for your Menu item, just add code"
+msgstr "Vagy akár használhatja egy menüben a következő kód hozzáadásával"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:49
+msgid ""
+"into your menu item \"Title Attribute\" field. Don't worry - users will not "
+"see this code as menu item title on your site."
+msgstr ""
+"a menüelem \"Cím attribútum\" mezőbe. Ne aggódjon, a felhasználók nem fogják "
+"látni ezt a kódot a menü szövegében."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:55
+msgid "Scroll window"
+msgstr "Ablak görgetésekor"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:64
+msgid "seconds after first scroll"
+msgstr "másodpercig az első görgetés után"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:68
+msgid "Scrolled to"
+msgstr "görgetés az oldal"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:72
+msgid "percents of total scroll"
+msgstr "%-ánál"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:80
+msgid "Show when user tries to exit from your site."
+msgstr "Amikor a felhasználó ki akar lépni a honlapról."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:81
+msgid "On Exit from Site"
+msgstr "A honlap elhagyásakor"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:87
+msgid "To allow user to send message before agent starts chatting or not"
+msgstr ""
+"Engedélyezi a felhasználónak, hogy üzenetet küldjön, mielőtt a megbízott "
+"hozzákezdett a válaszhoz vagy sem"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:90
+msgid "Wait for agent response"
+msgstr "Várakozás a megbízott válaszára"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:94
+msgid "Show on next pages"
+msgstr "Megjelenítés oldalakon"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:100
+msgid "All pages"
+msgstr "Összes oldalon"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:106
+msgid "Show on next pages / posts"
+msgstr "A következő oldalakon/bejegyzésekben"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:115
+msgid "Don't show on next pages / posts"
+msgstr "A következő oldalakon/bejegyzésekben NE"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:122
+msgid "Time display settings"
+msgstr "Idő szerinti beállítás"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:128
+msgid "Set display time"
+msgstr "Megjelenítés ideje"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:137
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:158
+msgid "to"
+msgstr "-"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:145
+msgid "Date display settings"
+msgstr "Dátum szerinti beállítás"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:151
+msgid "Set display date"
+msgstr "Megjelenítés dátuma"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:164
+#, fuzzy
+#| msgid "Date display settings"
+msgid "Days display settings"
+msgstr "Dátum szerinti beállítás"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:170
+#, fuzzy
+#| msgid "Set display date"
+msgid "Set display days"
+msgstr "Megjelenítés dátuma"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:181
+msgid "Whom to show"
+msgstr "Akiknek megjelenjen"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:187
+msgid "Everyone"
+msgstr "Mindenki"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:193
+msgid "For first-time visitors"
+msgstr "Első alkalommal látogató"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:196
+msgid ""
+"Will remember user visit for entered number of days and show Chat to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+"Megjegyzi a megadott napig, hogy a felhasználó már meglátogatta az oldalt, "
+"és utána megint megjeleníti ugyanennek a felhasználónak. Ha csak egy "
+"böngészési munkamenetre szóljon a megjegyzés, írjon be 0-át, ha korlátlan "
+"ideig, akkor egy nagyon nagy számot, pl. 99999."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:197
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:213
+msgid "Remember for"
+msgstr "Jegyezze meg"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:202
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:218
+msgid "days"
+msgstr "napig"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:205
+msgid "Registration, Chat session start, etc."
+msgstr "Regisztráció, beszélgetés munkamenet indítása stb."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:209
+msgid "Until user makes an action"
+msgstr "Amikor a felhasználó egy műveletet hajt végre"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:212
+msgid ""
+"Will remember user action for entered number of days and show Chat to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+"Megjegyzi a megadott napig, hogy a felhasználó már végrehajtotta a "
+"műveletet, és utána megint megjeleníti ugyanennek a felhasználónak. Ha csak "
+"egy böngészési munkamenetre szóljon a megjegyzés, írjon be 0-át, ha "
+"korlátlan ideig, akkor egy nagyon nagy számot, pl. 99999."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:222
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:237
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:252
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:268
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:283
+msgid "Click to revert feature function: from Hide - to Show, and vice versa."
+msgstr "Kattintson a kívánt funkcióra: Elrejtésre vagy Megjelenítésre."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:223
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:238
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:253
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:269
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:284
+msgid "Hide"
+msgstr "Elrejtés"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:223
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:238
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:253
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:269
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:284
+msgid "Show Only"
+msgstr "Megjelenítés csak"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:228
+msgid "for Devices"
+msgstr "a következő eszközöknél"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:229
+msgid ""
+"You can make Chat visible or hidden only when users will view your site from "
+"selected devices."
+msgstr ""
+"Megadhatja, hogy a beszélgetőpanel látható vagy rejtett legyen, amikor a "
+"felhasználó a kiválasztott eszközön keresztül nézi a honlapot."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:234
+msgid "Choose devices"
+msgstr "Válasszon eszközt"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:243
+msgid "for Post Types"
+msgstr "a következő bejegyzéstípusoknál"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:244
+msgid ""
+"You can make Chat visible or hidden only for specified Post Types, for "
+"example - hide it on all Pages."
+msgstr ""
+"A beszélgetéspanelt láthatóvá vagy rejtetté teheti bizonyos "
+"bejegyzéstípusoknál. Pl. elrejtheti az összes statikus oldalon."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:249
+msgid "Choose post types"
+msgstr "Válasszon bejegyzéstípust"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:258
+msgid "for IP"
+msgstr "a következő IP címeknél"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:259
+#, php-format
+msgid ""
+"For those IPs Chat will not be displayed (or vice versa - depending on Hide/"
+"Show Only option). Please be advised that your IP - %s"
+msgstr ""
+"A megadott IP címeknél a beszélgetőpanel nem látható, illetve csak azokon "
+"látható - a választástól függően. Vegye figyelembe, hogy az Ön IP címe: %s"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:261
+msgid "Show IPs List"
+msgstr "IP címek megjelenítése"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:274
+msgid "for Countries"
+msgstr "országoknál"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:275
+#, php-format
+msgid ""
+"For those Countries Chat will not be displayed (or vice versa - depending on "
+"Hide/Show Only option). Please be advised that your Country code is %s"
+msgstr ""
+"A megadott országoknál a beszélgetőpanel nem látható, illetve csak azokon "
+"látható - a választástól függően. Vegye figyelembe, hogy az Ön országkódja: "
+"%s"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:289
+msgid "for Languages"
+msgstr "nyelveknél"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:290
+#, php-format
+msgid ""
+"For those Languages Chat will not be displayed. Language is defined by "
+"visitor browser language. Please be advised that your browser language is %s"
+msgstr ""
+"A megadott nyelveknél a beszélgetőpanel nem látható, illetve csak azokon "
+"látható - a választástól függően. A nyelv a látogató által használt böngésző "
+"nyelve lesz. Az Ön böngészőjének nyelve: %s"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:296
+msgid "Choose languages"
+msgstr "Válasszon nyelvet"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:298
+msgid "This feature is supported only in WordPress version 4.0.0 or higher"
+msgstr "Ez a funkció csak a WordPress 4.0.0 verziónál újabbaknál támogatott"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:301
+msgid ""
+"Hide Chat for Logged-in users and show it only for not Logged site visitors."
+msgstr ""
+"A beszélgetőpanelt nem jeleníti meg a bejelentkezett felhasználóknál, hanem "
+"csak azoknál, akik nem bejelentkezett látogatók."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:304
+msgid "Hide for Logged-in"
+msgstr "Elrejtés bejelentkezett látogató esetén"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:307
+msgid "IPs List"
+msgstr "IP lista"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:309
+msgid ""
+"Type here IPs that will not see (or vice versa) Chat, each IP - from new line"
+msgstr ""
+"Adja meg, hogy melyik IP címeknél ne legyen látható, illetve csak azokon "
+"látható. Minden IP címet új sorba írjon"
+
+#: ../modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr "Ellenőrizze a bejövő/kéretlen e-mail mappáját a tesztlevelet illetően."
+
+#: ../modules/mail/mod.php:37
+msgid "Cannot send email - problem with send server"
+msgstr "Nem lehet e-mailt küldeni. A postázó szerverrel probléma van"
+
+#: ../modules/mail/mod.php:50
+msgid "Mail"
+msgstr "Levél"
+
+#: ../modules/mail/mod.php:52
+msgid "Mail function tested and work"
+msgstr "A levélfunkciók tesztelése megtörtént, és működik"
+
+#: ../modules/mail/mod.php:53
+msgid "Notify Email"
+msgstr "E-mail értesítés"
+
+#: ../modules/mail/mod.php:53
+msgid "Email address used for all email notifications from plugin"
+msgstr "E-mail cím, amit a bővítményből érkező összes értesítését fogadja"
+
+#: ../modules/mail/models/mail.php:7
+msgid "Test email functionality"
+msgstr "E-mail működésének tesztelése"
+
+#: ../modules/mail/models/mail.php:8
+#, php-format
+msgid "This is a test email for testing email functionality on your site, %s."
+msgstr ""
+"Ez egy tesztüzenet, amivel %s honlap e-mail küldésének működését teszteljük."
+
+#: ../modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr "Üres e-mail cím"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr "Tesztüzenet címzette"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr "Teszt küldése"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allows you to check your server mail functionality"
+msgstr "Ezzel leellenőrizheti a szerver levélküldésének működőképességét"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you receive test email?"
+msgstr "Megkapta a tesztüzenetet?"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It works!"
+msgstr "Igen, működik!"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr ""
+"Nem, kapcsolatba kell lépnem a tárhelyszolgáltatóval a levélküldést illetően."
+
+#: ../modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and is working fine."
+msgstr "Remek! A levélküldési funkciót leellenőriztük, és működik!"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:29
+msgid ""
+"Bad, please contact your hosting provider and ask them to setup mail "
+"functionality on your server."
+msgstr ""
+"Rossz hír... Lépjen kapcsolatba a tárhely szolgáltatójával, és kérje meg, "
+"hogy telepítse a levelezési funkciót a szerverre."
+
+#: ../modules/mail/views/tpl/mailAdmin.php:47
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:44
+#, php-format
+msgid "Turned On %s"
+msgstr "%s bekapcsolva"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:48
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:45
+#, php-format
+msgid "Turned Off %s"
+msgstr "%s kikapcsolva"
+
+#: ../modules/options/mod.php:48
+msgid "System"
+msgstr "Rendszer"
+
+#: ../modules/options/mod.php:114
+msgid "General"
+msgstr "Általános"
+
+#: ../modules/options/mod.php:116
+msgid "Send usage statistics"
+msgstr "Használati statisztika küldése"
+
+#: ../modules/options/mod.php:116
+msgid ""
+"Send information about what plugin options you prefer to use, this will help "
+"us make our solution better for You."
+msgstr ""
+"Információk küldése a fejlesztőkhöz arról, hogy a bővítmény milyen "
+"beállításait szereti használni, ezzel segít újabb megoldásokat találni Önnek."
+
+#: ../modules/options/mod.php:118
+msgid "Enable promo link"
+msgstr "Promóciós link engedélyezése"
+
+#: ../modules/options/mod.php:118
+msgid ""
+"We are trying to make our plugin better for you, and you can help us with "
+"this. Just check this option - and small promotion link will be added in the "
+"bottom of your Chat. This is easy for you - but very helpful for us!"
+msgstr ""
+"A fejlesztők megpróbálják a bővítményt jobbítani az Ön számára, és Ön ebben "
+"segíthet. Ha bejelöli ezt az opciót, egy kis promóciós link fog megjelenni a "
+"beszélgetőpanel alján. Ez Önnek egyszerű, a fejlesztőknek segítség! "
+"Köszönjük!"
+
+#: ../modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr "Modul frissítve"
+
+#: ../modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "Modul frissítése meghiúsult"
+
+#: ../modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "Hiba. Modul azonosítója"
+
+#: ../modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr "Adatok ürítése a mentésnél"
+
+#: ../modules/options/views/tpl/optionsAdminPage.php:33
+msgid "Improve Free version"
+msgstr "Ingyenes verzió fejlesztése"
+
+#: ../modules/options/views/tpl/optionsAdminPage.php:35
+#, php-format
+msgid ""
+"Please be advised that this option is available only in <a target=\"_blank\" "
+"href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class="
+"\"button\">Get PRO</a> today and get this and other PRO option for your Chat!"
+msgstr ""
+"Ez a lehetőség csak a <a target=\"_blank\" href=\"%s\">PRO verzióban</a> "
+"található meg. <a target=\"_blank\" href=\"%s\" class=\"button"
+"\">Megvásárolhatja a PRO-t</a> most, hogy hozzáférjen ehhez, és még egyéb "
+"PRO funkciót is kap mellé a beszélgetéshez."
+
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr "Összes opció mentése"
+
+#: ../modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr ""
+"Bővítmény adatainak törlése (opciók, telepítési adatok, adatbázis táblák "
+"stb.)"
+
+#: ../modules/registration/js/admin.registration.js:179
+msgid "Are you sure want to remove field "
+msgstr ""
+
+#: ../modules/registration/models/registration.php:33
+msgid "Empty Engine ID or URL"
+msgstr "Motor azonosító vagy URL ürítése"
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:14
+msgid "Are you sure want to clear all PopUp Statistics?"
+msgstr ""
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:354
+#, fuzzy
+#| msgid "Required"
+msgid "Requests"
+msgstr "Kötelező"
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:421
+msgid "Views"
+msgstr ""
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:421
+msgid "Unique Views"
+msgstr ""
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:421
+#, fuzzy
+#| msgid "Version"
+msgid "Conversion"
+msgstr "Verzió"
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:436
+msgid "Current PopUp"
+msgstr ""
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:438
+#, fuzzy
+#| msgid "You have no permissions to view this page"
+msgid "You have no statistics to display here."
+msgstr "Nincs jogosultsága az oldal megtekintéséhez"
+
+#: ../modules/statistics/mod.php:9
+msgid "Statistics"
+msgstr "Statisztikák"
+
+#: ../modules/statistics/mod.php:28
+msgid "Chat Displayed"
+msgstr "Beszélgetőpanel megjelenítve"
+
+#: ../modules/statistics/mod.php:29
+msgid "Chat Opened"
+msgstr "Beszélgetőpanel megnyitva"
+
+#: ../modules/statistics/mod.php:30
+msgid "User Registered"
+msgstr "Felhasználó regisztrálva"
+
+#: ../modules/statistics/mod.php:31
+msgid "Session Started"
+msgstr "Munkamenet megkezdődött"
+
+#: ../modules/statistics/models/statistics.php:30
+msgid "Send me some info, pls"
+msgstr "Kérlek, küldj nekem néhány infót."
+
+#: ../modules/statistics/models/statistics.php:75
+msgid "Messages"
+msgstr "Üzenetek"
+
+#: ../modules/statistics/models/statistics.php:187
+msgid "No data found"
+msgstr "Nincs adat"
+
+#: ../modules/statistics/views/tpl/statPromoGraph.php:4
+msgid "Get PRO"
+msgstr "PRO vásárlása"
+
+#: ../modules/statistics/views/tpl/statPromoGraph.php:5
+msgid "All Statistics in PRO version"
+msgstr "Az összes statisztika a PRO verzióban található"
+
+#: ../modules/supsystic_promo/controller.php:7
+msgid "Information was saved. Thank you!"
+msgstr "Az adatok mentése megtörtént. Köszönjük!"
+
+#: ../modules/supsystic_promo/controller.php:23
+msgid ""
+"Please don't send contact requests so often - wait for response for your "
+"previous requests."
+msgstr ""
+"Kérjük, ne küldjön kérelmeket ilyen gyakran, várja meg az előzőkre adott "
+"válaszokat."
+
+#: ../modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr "Érvényes email címet adjon meg"
+
+#: ../modules/supsystic_promo/controller.php:193
+msgid "Please wait while our operator will start conversation"
+msgstr "Várjon, amíg egy operátor bekapcsolódik a beszélgetésbe"
+
+#: ../modules/supsystic_promo/controller.php:194
+msgid ""
+"<a href=\"https://supsystic.com/\" target=\"_blank\">supsystic.com</a> chat "
+"engine"
+msgstr ""
+"<a href=\"https://supsystic.com/\" target=\"_blank\">supsystic.com</a> "
+"beszélgetőpanel motor"
+
+#: ../modules/supsystic_promo/controller.php:195
+msgid ""
+"Thank you for using our support! Driven by <a href=\"https://supsystic.com/"
+"\" target=\"_blank\">supsystic.com chat engine</a>"
+msgstr ""
+"Köszönjük, hogy igénybe veszi a támogatásunkat! A <a href=\"https://"
+"supsystic.com/\" target=\"_blank\">supsystic.com beszélgetéspanel motor</a> "
+"hajtja"
+
+#: ../modules/supsystic_promo/controller.php:196
+msgid "Operator [name] joined chat with you"
+msgstr "[name] operátor csatlakozott a beszélgetéshez"
+
+#: ../modules/supsystic_promo/controller.php:197
+msgid "Start Chat!"
+msgstr "Induljon a beszélgetés!"
+
+#: ../modules/supsystic_promo/controller.php:198
+msgid "Please register before chat"
+msgstr "Kérjük, regisztráljon, mielőtt a beszélgetésbe kezdene"
+
+#: ../modules/supsystic_promo/mod.php:33
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week - that's awesome!</"
+"h3><p>Could you please do me a BIG favor and give it a 5-star rating on "
+"WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+"<h3>Hahó! Éppen realizáltuk, hogy a %s bővítményt már több, mint egy hete "
+"használja. Ez remek!</h3><p>Megkérnénk egy NAGY szívességre: adjon 5 "
+"csillagot a WordPress értékeléshez! Ez segít bennünket a nagyobb "
+"ismertséghez, és sokkal-sokkal motivátabbak leszünk a fejlesztéshez! "
+"Ksözönjük!</p>"
+
+#: ../modules/supsystic_promo/mod.php:34 ../modules/supsystic_promo/mod.php:40
+msgid "Ok, you deserve it"
+msgstr "OK. Megérdemli"
+
+#: ../modules/supsystic_promo/mod.php:35 ../modules/supsystic_promo/mod.php:41
+msgid "Nope, maybe later"
+msgstr "Nem, talán később"
+
+#: ../modules/supsystic_promo/mod.php:36
+msgid "I already did"
+msgstr "Már megtettem"
+
+#: ../modules/supsystic_promo/mod.php:37
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr "<h3>%s bővítményt több, mint 11 napja használja! Gratulálunk!</h3>"
+
+#: ../modules/supsystic_promo/mod.php:38
+msgid ""
+"<p>On behalf of the entire <a href=\"https://supsystic.com/\" target=\"_blank"
+"\">supsystic.com</a> company I would like to thank you for been with us, and "
+"I really hope that our software helped you.</p>"
+msgstr ""
+"<p>A teljes  <a href=\"https://supsystic.com/\" target=\"_blank\">supsystic."
+"com</a> cég nevében szeretném megköszönni Önnek, hogy velünk van, és "
+"remélem, hogy a szoftverünk segített Önnek.</p>"
+
+#: ../modules/supsystic_promo/mod.php:39
+msgid ""
+"<p>And today, if you want, - you can help us. This is really simple - you "
+"can just add small promo link to our site under your Chat. This is small "
+"step for you, but a big help for us! Sure, if you don't want - just skip "
+"this and continue enjoy our software!</p>"
+msgstr ""
+"<p>És ma, ha úgy gondolja, Ön segíthet nekünk. Ez igen egyszerű. Csak egy "
+"kis promóciós linket kell elhelyeznie a beszélgetőablak alatt. Ez iegy kis "
+"lépés Önnek, de nagy segítség számunkra! Ha nem akarja, nem kötelező, csak "
+"hagyja ezt figyelmen kívül, és élvezze a szoftvert!</p>"
+
+#: ../modules/supsystic_promo/mod.php:42
+msgid "Skip"
+msgstr "Kihagy"
+
+#: ../modules/supsystic_promo/mod.php:44
+#, php-format
+msgid ""
+"Check out <a href=\"%s\" target=\"_blank\" class=\"button button-primary\" "
+"data-statistic-code=\"hide\">our other Plugins</a>! Years of experience in "
+"WordPress plugins developers made those list unbreakable!"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:90
+msgid "Overview"
+msgstr "Áttekintés"
+
+#: ../modules/supsystic_promo/mod.php:93
+msgid "Featured Plugins"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:160
+msgid "Website"
+msgstr "Honlap"
+
+#: ../modules/supsystic_promo/mod.php:161
+msgid "Subject"
+msgstr "Tárgy"
+
+#: ../modules/supsystic_promo/mod.php:162
+msgid "Topic"
+msgstr "Téma"
+
+#: ../modules/supsystic_promo/mod.php:163
+msgid "Plugin options"
+msgstr "Bővítmény opciók"
+
+#: ../modules/supsystic_promo/mod.php:164
+msgid "Report a bug"
+msgstr "Hiba bejelentése"
+
+#: ../modules/supsystic_promo/mod.php:165
+msgid "Require a new functionality"
+msgstr "Igény új funkcióra"
+
+#: ../modules/supsystic_promo/mod.php:166
+msgid "Other"
+msgstr "Más"
+
+#: ../modules/supsystic_promo/mod.php:168
+msgid "Message"
+msgstr "Üzenet (angolul)"
+
+#: ../modules/supsystic_promo/mod.php:168
+msgid "Hello Supsystic Team!"
+msgstr "Hello Supsystic Team!"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:38
+#, php-format
+msgid ""
+"There were some problems while trying to retrieve our news, but you can "
+"always check all list <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+"Egy kis probléma merült fel, mialatt megpróbált hozzáférni a híreinkhez, de "
+"<a target=\"_blank\" href=\"%s\">itt</a> mindig megnézheti a teljes listát."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:88
+msgid "Popup Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:88
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, "
+"social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:89
+#, fuzzy
+#| msgid "Contact form"
+msgid "Contact Form Plugin"
+msgstr "Kapcsolat űrlap"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:89
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:90
+msgid "Newsletter Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:90
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will "
+"have no need to control it or send them manually. No coding, hard skills or "
+"long hours of customizing are required."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:91
+msgid "Membership by Supsystic"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:91
+msgid ""
+"Create online membership community with custom user profiles, roles, "
+"FrontEnd registration and login. Members Directory, activity, groups, "
+"messages."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:92
+msgid "Photo Gallery Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:92
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:93
+msgid "Data Tables Generator"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:93
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML "
+"knowledge is required."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:94
+#, fuzzy
+#| msgid "Slide Down"
+msgid "Slider Plugin"
+msgstr "Leúsztatás"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:94
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select "
+"images from your WordPress Media Library, Flickr, Instagram or Facebook, set "
+"slide captions, links and SEO fields all from one page."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:95
+msgid "Social Share Buttons"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:95
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social "
+"sharing to Facebook, Twitter and other social networks."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:96
+#, fuzzy
+#| msgid "Live Chat Agent"
+msgid "Live Chat Plugin"
+msgstr "Live Chat megbízott"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:96
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by "
+"Supsystic. Help you visitors, support them in real-time with exceptional "
+"Live Chat WordPress plugin by Supsystic."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:97
+msgid "Pricing Table"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:97
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables "
+"with table builder. Any element of the table can be customise with mouse "
+"click."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:98
+msgid "Coming Soon Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:98
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | "
+"maintenance mode to notify visitors and collects emails."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:99
+msgid "Backup Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:99
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and "
+"unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress "
+"website."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:100
+msgid "Google Maps Easy"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:100
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:101
+msgid "Digital Publication Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:101
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:102
+msgid "Kinsta Hosting"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:102
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:6
+msgid ""
+"If you want to host a business site or a blog, Kinsta managed WordPress "
+"hosting is the best place to stop on. Without any hesitation, we can say "
+"Kinsta is incredible when it comes to uptime and speed."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "Verzió"
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr "Ugrás"
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr "PRO"
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:15
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:28
+msgid "Support"
+msgstr "Támogatás"
+
+#: ../modules/supsystic_promo/views/tpl/discountMsg.php:37
+#, php-format
+msgid ""
+"Upgrade to bundle and get an access to <a href=\"%s\" target=\"_blank\">all "
+"14 plugins</a> more than 80%% off!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/discountMsg.php:38
+msgid "Buy Now"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:3
+msgid "Get plugins bundle today and save over 80%"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:6
+#, fuzzy
+#| msgid "Checkbox"
+msgid "Check It out"
+msgstr "Jelölőnégyzet"
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:31
+#, fuzzy
+#| msgid "More then"
+msgid "More info"
+msgstr "Több mint"
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:35
+msgid "Download"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:12
+msgid "Server Settings"
+msgstr "Szerver beállítások"
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:25
+msgid "Contact form"
+msgstr "Kapcsolat űrlap"
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:57
+msgid "Send email"
+msgstr "Email küldése"
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:66
+msgid ""
+"Your email was sent, we will try to respond to your as soon as possible. "
+"Thank you for support!"
+msgstr ""
+"Az e-mailje postázásra került, és megpróbálunk a lehető leghamarabb "
+"válaszolni rá. Köszönjük a támogatást!"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr "Üdvözöljük a %s v %s bővítményben."
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr "Bemutató átugrása"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:11
+msgid ""
+"The best way to collect subscribers and show notifications.<br />We are "
+"trying to make our plugin work in most comfortable way for you. Here is some "
+"base information about it."
+msgstr ""
+"A legjobb módja annak, hogy előfizetőket gyűjtsön, és értesítéseket "
+"jelenítsen meg.<br/>Megpróbáljuk a bővítményeinket a legkényelmesebb "
+"használatúra készíteni. Itt van erről néhány alapinformáció."
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr "Bemutatás lépésről lépésre"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:21
+msgid ""
+"There're really many options of Live Chat customization. So as soon as you "
+"close that page, I'll show you step-by-step tutorial of how to use plugin. "
+"Hope it will be usefull for you :)"
+msgstr ""
+"Valóban elég sok lehetőség van a Live Chat beállításánál. Miután bezárta ezt "
+"az oldalt, lépésről lépésre megmutatjuk, hogyan használja ezt a bővítményt. "
+"Reméljük, hasznos lesz! :-)"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:24
+msgid "As an option we can install and setup plugin for you."
+msgstr "Opcionálisan telepíthetjük és beállíthatjuk a bővítményt Önnek"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:30
+#, php-format
+msgid ""
+"We love our plugin and do the best to improve all features for You. But "
+"sometimes issues happened, or you can't find required feature that you need. "
+"Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will "
+"help you!"
+msgstr ""
+"Imádjuk a bővítményünket, és megteszünk mindent, hogy az összes funkciót "
+"tovább fejlesszük. De néha problémák adódnak, vagy nem találja a kívánt "
+"funkciót, amire szüksége lenne. Ne bánkódjon. Lépjen kapcsolatba velünk <a "
+"href='%s' target='_blank'>itt</a>, és segítünk!"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:36
+msgid "Video Tutorial"
+msgstr "Oktató videó"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:48
+msgid "Frequently Asked Questions"
+msgstr "Gyakran ismételt kérdések"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:51
+msgid "Check all FAQs"
+msgstr "Az összes GYÍK ellenőrzése"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:59
+msgid "Let's Start!"
+msgstr "Beszélgessünk!"
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "Váratlan HTTP hiba történt az API lekérdezésekor.</p> <p><a href=\"?\" "
+#~ "onclick=\"document.location.reload(); return false;\">Ismételje meg</a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "Ismeretlen hiba történt"
+
+#~ msgid ""
+#~ "Your license has expired. Once you extend your license - you will be able "
+#~ "to Update PRO version. To extend PRO version license - follow <a href=\"%s"
+#~ "\" target=\"_blank\">this link</a>, then - go to <a href=\"%s\">License</"
+#~ "a> tab anc click on \"Re-activate\" button to re-activate your PRO "
+#~ "version."
+#~ msgstr ""
+#~ "A licenc lejárt. Ha meghosszabbítja, frissítheti a PRO verzióra <a href="
+#~ "\"%s\" target=\"_blank\">ezen a linken</a>, majd kattintson a <a href=\"%s"
+#~ "\">Licenc</a> fülre, majd az \"Újra aktiválás\" gombra, hogy újból "
+#~ "aktiválja a PRO verziót."
+
+#~ msgid ""
+#~ "Your license for PRO version of %s plugin has expired. You can <a href="
+#~ "\"%s\" target=\"_blank\">click here</a> to extend your license, then - go "
+#~ "to <a href=\"%s\">License</a> tab and click on \"Re-activate\" button to "
+#~ "re-activate your PRO version."
+#~ msgstr ""
+#~ "%s bővítmény PRO licence lejárt. Meghosszabbíthatja, ha <a href=\"%s\" "
+#~ "target=\"_blank\">ide kattint</a>, majd kattintson a <a href=\"%s"
+#~ "\">Licenc</a> fülre, majd az \"Újra aktiválás\" gombra, hogy ismét "
+#~ "aktiválja a PRO verziót."
+
+#~ msgid "License"
+#~ msgstr "Licenc"
+
+#~ msgid "Activate License"
+#~ msgstr "Licenc aktiválása"
+
+#~ msgid "Renew License"
+#~ msgstr "Licenc megújítása"
+
+#~ msgid "Please enter your License Key"
+#~ msgstr "Adja meg a licenckódot"
+
+#~ msgid "Please enter your Email address"
+#~ msgstr "Adja meg az e-mail címét"
+
+#~ msgid ""
+#~ "There was a problem with sending request to our authentication server. "
+#~ "Please try later."
+#~ msgstr ""
+#~ "Hiba merült fel a hitelesítő szerverrel való kapcsolat során. Próbálja "
+#~ "meg később."
+
+#~ msgid "License for plugin %s will expire today."
+#~ msgstr "%s bővítmény licence ma le fog járni."
+
+#~ msgid "License for plugin %s will expire tomorrow."
+#~ msgstr "%s bővítmény licence holnap le fog járni."
+
+#~ msgid "License for plugin %s will expire in %d days."
+#~ msgstr "%s bővítmény licence %d nap múlva le fog járni."
+
+#~ msgid ""
+#~ "Congratulations! PRO version of %s plugin has been activated and is "
+#~ "working fine!"
+#~ msgstr ""
+#~ "Gratulálunk! %s bővítmény PRO verzióját aktiválta, és hibátlanul működik!"
+
+#~ msgid ""
+#~ "Your license for PRO version of %s plugin has expired. You can <a href="
+#~ "\"%s\" target=\"_blank\">click here</a> to extend your license, then - "
+#~ "click on \"Re-activate\" button to re-activate your PRO version."
+#~ msgstr ""
+#~ "%s bővítmény PRO licence lejárt. Meghosszabbíthatja, ha <a href=\"%s\" "
+#~ "target=\"_blank\">ide kattint</a>, majd kattintson az \"Újra aktiválás\" "
+#~ "gombra, hogy ismét aktiválja a PRO verziót."
+
+#~ msgid ""
+#~ "Congratulations! You have successfully installed PRO version of %s "
+#~ "plugin. Final step to finish Your PRO version setup - is to enter your "
+#~ "Email and License Key on this page. This will activate Your copy of "
+#~ "software on this site."
+#~ msgstr ""
+#~ "Gratulálunk! %s bővítmény PRO verzióját sikeresen telepítette. A "
+#~ "telepítés utolsó lépéseként meg kell adnia az e-mali címét és a "
+#~ "licenckódot ezen az oldalon. Ez aktiválja a bővítményt ezen a honlapon."
+
+#~ msgid ""
+#~ "Your email address, used on checkout procedure on <a href=\"%s\" target="
+#~ "\"_blank\">%s</a>"
+#~ msgstr ""
+#~ "Az Ön e-mail címe, amit a fizetésnél használt itt: <a href=\"%s\" target="
+#~ "\"_blank\">%s</a>"
+
+#~ msgid "License Key"
+#~ msgstr "Licenckód"
+
+#~ msgid ""
+#~ "Your License Key from your account on <a href=\"%s\" target=\"_blank\">"
+#~ "%s</a>"
+#~ msgstr ""
+#~ "Az Ön licenckódja, ami a fiókjában van itt: <a href=\"%s\" target=\"_blank"
+#~ "\">%s</a>"
+
+#~ msgid "Re-activate"
+#~ msgstr "Újból aktiválás"
+
+#~ msgid "Activate"
+#~ msgstr "Aktiválás"
+
+#~ msgid "Thank you!"
+#~ msgstr "Köszönjük!"
+
+#~ msgid "Can not find session"
+#~ msgstr "Nincs munkamenet"
+
+#~ msgid "Can not find session ID"
+#~ msgstr "Munkamenet azonosító nem található"
+
+#~ msgid "Rating is missing"
+#~ msgstr "Értékelés hiányzik"
+
+#~ msgid "Empty ID"
+#~ msgstr "Üres ID"
+
+#~ msgid "Agent Rating"
+#~ msgstr "Megbízott értékelése"
+
+#~ msgid "Positive"
+#~ msgstr "Pozitív"
+
+#~ msgid "Negative"
+#~ msgstr "Negatív"
+
+#~ msgid "Average"
+#~ msgstr "Átlagos"
+
+#~ msgid "There are no rates for now"
+#~ msgstr "Jelenleg nincs értékelés"
+
+#~ msgid "Total statistics for %s"
+#~ msgstr "%s összes statisztikája"
+
+#~ msgid "Messages statistics for %s"
+#~ msgstr "%s üzenetstatisztikája"
+
+#~ msgid "Total Statistics"
+#~ msgstr "Összes statisztika"
+
+#~ msgid "Clear selection"
+#~ msgstr "Kijelölés megszüntetése"
+
+#~ msgid "To"
+#~ msgstr "Vége:"
+
+#~ msgid "Reset Zoom"
+#~ msgstr "Nagyítás visszaállítása"
+
+#~ msgid "Group by"
+#~ msgstr "Csoportosítási szempont"
+
+#~ msgid "Hour"
+#~ msgstr "Óra"
+
+#~ msgid "Day"
+#~ msgstr "Nap"
+
+#~ msgid "Week"
+#~ msgstr "Hét"
+
+#~ msgid "Month"
+#~ msgstr "Hónap"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Exportálás CSV-be"
+
+#~ msgid "Clear data"
+#~ msgstr "Adatok törlése"
+
+#~ msgid "Total Statistics is empty for now."
+#~ msgstr "Az Összes statisztika jelenleg üres."
+
+#~ msgid "Messages is empty for now."
+#~ msgstr "Az Üzenetek jelenleg üres."
+
+#~ msgid "Agents Sessions Activity"
+#~ msgstr "Megbízottak munkameneteinek aktivitás"
+
+#~ msgid "Sessions Activity is empty for now."
+#~ msgstr "A Munkamenet aktivitás jelenleg üres."
+
+#~ msgid "Agents Messages Activity"
+#~ msgstr "Megbízottak üzenetei aktivitás"
+
+#~ msgid "Messages Activity is empty for now."
+#~ msgstr "Az Üzenetek aktivitás jelenleg üres."
+
+#~ msgid "Agents Rating"
+#~ msgstr "Megbízottak értékelése"
+
+#~ msgid "Agents Rating is empty for now."
+#~ msgstr "A Megbízottak értékelése jelenleg üres."

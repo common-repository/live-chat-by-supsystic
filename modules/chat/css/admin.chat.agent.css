@@ -1,0 +1,69 @@
+.lcsMessagesShell {
+	min-height: 300px;
+	overflow-y: scroll;
+}
+/*messages*/
+.lcsMessages {
+	padding: 10px;
+}
+.lcsMessages, 
+.lcsMessagesExShell {
+	width: 100%;
+}
+.lcsAgentMsgShell,
+.lcsUserMsgShell {
+	clear: both;
+}
+.lcsAgentNameShell,
+.lcsUserNameShell {
+	color: #989696;
+  	margin-bottom: 5px;
+  	font-size: 13px;
+}
+.lcsAgentNameShell {
+	text-align: left;
+}
+.lcsUserNameShell {
+	text-align: right;
+}
+.lcsAgentMsg,
+.lcsUserMsg {
+  	color: #020000;
+  	max-width: 80%;
+  	padding: 8px 10px;
+  	border: none;
+  	border-radius: 5px;
+  	position: relative;
+}
+.lcsAgentMsg:after,
+.lcsUserMsg:after {
+    content: '';
+    position: absolute;
+    border-style: solid;
+    display: block;
+    width: 0;
+    top: 8px;
+}
+.lcsAgentMsg:after {
+	left: -8px;
+  	border-color: transparent rgba(49, 159, 219, 0.3);
+  	border-width: 0 8px 8px 0;
+}
+.lcsUserMsg:after {
+	right: -8px;
+  	border-color: transparent rgba(2, 0, 0, 0.1);
+  	border-width: 0 0 8px 8px;
+}
+.lcsAgentMsg {
+	background-color: rgba(49, 159, 219, 0.3);
+  	float: left;
+  	text-align: left;
+}
+.lcsUserMsg {
+	background-color: rgba(2, 0, 0, 0.1);
+  	float: right;
+  	text-align: right;
+}
+.lcsMessages, .lcsMessagesExShell {
+	width: 100%;
+}

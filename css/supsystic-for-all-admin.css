@@ -1,0 +1,16 @@
+/*remove duplicated WP menu item*/
+#toplevel_page_chat-wp-supsystic .wp-submenu.wp-submenu-wrap .wp-first-item {
+	display: none;
+}
+/*pro menu items ad*/
+.lcsMenuProLabel {
+	color: #0074a2 !important;
+}
+.wp-submenu .lcsMenuProLabel,
+.supsystic-navigation .lcsMenuProLabel {
+	display: block;
+	font-size: 10px;
+}
+.supsystic-breadcrumb-el .lcsMenuProLabel {
+	margin-left: 5px;
+}

@@ -1,0 +1,432 @@
+.tpls-list {
+	margin-top: 40px;
+}
+.tpls-list .tpls-list-item {
+	max-width: 350px;
+	border: 1px solid transparent;
+	padding: 5px;
+	margin: 6px;
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+	overflow: hidden;
+}
+.tpls-list .tpls-list-item.active ,
+.tpls-list .tpls-list-item:active  {
+	outline: 5px solid rgba(0, 0, 0, 0.52);
+}
+.tpls-list .tpls-list-item img.lcsTplPrevImg {
+	max-width: 400px;
+	height: auto;
+}
+.tpls-list .tpls-list-item .preset-select-btn {
+	position: absolute; 
+	top: 50%; 
+	left: 50%; 
+	transform: translate(-50%, -50%);
+	background-color: #ffffff;
+	font-size: 14px;
+	line-height: 35px;
+}
+.tpls-list .tpls-list-item.active .preset-select-btn,
+.tpls-list .tpls-list-item:active .preset-select-btn {
+	color: #000;
+	background-color: #4ae8ea;
+}
+.lcsSelectTpl {
+	position: absolute;
+	top: -50px;
+	/*left: 160px;*/
+}
+#lcsChatPreview {
+	/*float: left;
+	width: calc(100% - 560px);*/
+}
+#lcsChatEditTabs {
+	/*float: right;
+	width: 560px;*/
+}
+#lcsChatEditTabs .lcsOptTxtCheck {
+	width: calc(100% - 25px);
+}
+#lcsChatEditForm textarea {
+	width: 100%;
+}
+.wp-editor-area   {
+  height: 200px;
+  }
+.lcsTabContent section {
+	padding-bottom: 20px;
+}
+.lcsChatOptRow {
+	padding-left: 7px;
+}
+.supsystic-plugin fieldset, .lcsChatOptRow {
+	margin-bottom: 10px;
+}
+/*additional*/
+.lcsBgTypeShell {
+	display: none;
+}
+.lcsMainOptSect {
+	float: left;
+	padding-right: 30px;
+	max-width: 30%;
+}
+.lcsListItems li {
+	float: left;
+	margin-right: 5px;
+	/*min-height: 50px;*/
+	line-height: 35px;
+	cursor: pointer;
+	border: 1px solid transparent;
+	padding: 3px;
+}
+.lcsListItems li:hover {
+	border-color: #4ae8ea;
+}
+.lcsListItems li.active {
+	border-color: #000;
+}
+#lcsChatTplPreviewUpdatingMsg {
+	position: fixed;
+	top: 0;
+	left: 50%;
+	z-index: 999999;
+	display: none;
+	padding: 5px;
+	color: #4ae8ea;
+	background-color: #000;
+}
+#lcsChatSettingsEditForm .form-table {
+	vertical-align: top;
+}
+#lcsWhenShow .lcsMainOptLbl {
+	display: block;
+	margin-bottom: 5px;
+}
+a.lcsSwitchShowHideOptLink {
+	color: inherit !important;
+	text-decoration: none !important;
+}
+a.lcsSwitchShowHideOptLink.active,
+a.lcsSwitchShowHideOptLink:hover {
+	font-weight: bold;
+}
+/*animations setup*/
+.lcsChatAnimEff {
+	float: left;
+	min-height: 150px;
+	min-width: 150px;
+	position: relative;
+	border: 3px solid transparent;
+	cursor: pointer;
+}
+.lcsChatAnimEff:hover, 
+.lcsChatAnimEff.active {
+	border: 3px solid #4ae8ea;
+}
+.lcsChatAnimEffLabel {
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	width: 90%;
+	height: 90%;
+	line-height: 130px;
+	text-align: center;
+	/*font-size: 20px;*/
+	background-color: #000;
+	color: #fff;
+	/*cursor: pointer;*/
+}
+#supsystic-breadcrumbs .button, 
+#supsystic-breadcrumbs *:not(.fa) {
+	height: 30px; 
+	line-height: 26px;
+}
+.supsystic-always-top {
+	position: fixed;
+	z-index: 99;
+}
+#supsystic-breadcrumbs.supsystic-sticky {
+	background-color: #f1f1f1;
+	width: 100%;
+}
+[data-block-to-switch] {
+	width: 100%;
+}
+/*Design tabs*/
+#lcsChatEditDesignTabs .nav-tab-wrapper {
+	padding-left: 230px; 
+	margin-top: 0px; 
+	margin-bottom: 0px;
+}
+#lcsChatEditDesignTabs .nav-tab {
+	padding-bottom: 14px;
+}
+#lcsChatEditDesignTabs .lcsChatSelectTpl {
+	float: left;
+}
+/*@deprecated*/
+/*#lcsChatSubTxtsAndRedirect,
+#lcsChatSubEmailTxt {
+	margin-bottom: 0;
+}
+#lcsChatSubTxtsAndRedirect label,
+#lcsChatSubRedirect label,
+#lcsChatSubEmailTxt label,
+.lcsChatSubBtnLabelShell {
+	clear: both;
+	display: block;
+}
+#lcsChatSubTxtsAndRedirect input[type=text],
+#lcsChatSubRedirect input[type=text],
+#lcsChatSubEmailTxt input[type=text],
+#lcsChatSubEmailTxt textarea,
+.lcsChatSubBtnLabelShell input[type=text] {
+	width: calc(100% - 260px);
+	float: right;
+}*/
+.lcsSubShellOptsTbl {
+	width: 100%;
+}
+.lcsSubShellOptsTbl th {
+	min-width: 280px;
+	font-weight: normal;
+}
+.lcsSubShellOptsTbl input[type=text],
+.lcsSubShellOptsTbl textarea {
+	width: 100%;
+}
+.lcsSubShellOptsTbl .fa.supsystic-tooltip {
+	float: right;
+}
+#lcsChatEditForm .form-table td {
+	/*vertical-align: top;*/
+}
+.lcsChatMainOptDesc {
+	display: none;
+}
+.lcsChatSubDestOpts {
+	display: none;
+}
+.lcsSubShellMainTbl th {
+	min-width: 350px;
+}
+.lcsSubShellMainTbl .fa.supsystic-tooltip {
+	float: right;
+}
+#lcsChatSm .lcsChatOptRow {
+	margin-bottom: 10px;
+}
+#lcsChatTexts .lcsChatOptRow,
+#lcsChatTexts fieldset {
+	padding-bottom: 10px;
+}
+.ui-state-highlight-sub-fields {
+	border: 1px solid #000;
+	width: 50px;
+	height: 30px;
+	background-color: #ddd;
+}
+.lcsSubFieldShell, .ui-state-highlight-sub-fields {
+	float: left;
+	margin-right: 10px;
+	cursor: move;
+	padding: 5px;
+}
+.lcsSubFieldShell {
+	position: relative;
+}
+.lcsSfFieldToolbar {
+	display: none;
+	position: absolute;
+	top: -25px;
+	right: 0;
+	padding: 5px;
+	background-color: #dfdfdf;
+}
+.lcsSfFieldToolbar a {
+	color: #000;
+	text-decoration: none;
+}
+.lcsSfFieldToolbar a:not(:last-of-type) {
+	margin-right: 5px;
+}
+.lcsSubFieldShell:hover {
+	background-color: #dfdfdf;
+}
+.lcsSubFieldShell:hover .lcsSfFieldToolbar {
+	display: block;
+}
+#lcsSfFieldSelectOptShellExl {
+	display: none;
+}
+.lcsSfFieldSelectOptShell, 
+.ui-state-highlight-sub-field-select-opt{
+	border: 1px solid #000;
+	padding: 5px;
+	margin-top: 5px;
+	cursor: move;
+}
+.lcsSfFieldSelectOptShell:hover {
+	background-color: #dfdfdf;
+}
+.ui-state-highlight-sub-field-select-opt {
+	height: 30px;
+}
+#lcsSubAddFieldShell {
+	display: block;
+    float: left;
+}
+.lcsPromoImgUrl {
+	text-decoration: none !important;
+	box-shadow: none !important;
+}
+#lcsChatDesign .form-table td {
+	vertical-align: top;
+}
+.wp-picker-container {
+	min-width: 120px;
+	white-space: nowrap;
+}
+.lcsOptDescParamsShell {
+	padding-left: 15px;
+	/*overflow: hidden;*/
+}
+#lcsChatEditableLabelShell {
+	cursor: pointer;
+}
+#lcsChatEditableLabelTxt {
+	display: none;
+}
+/*Bg opacity slider*/
+#toeSliderDisplay_paramstplbg_overlay_opacity {
+	font-weight: bold;
+	text-align: center;
+}
+#lcsRegExRow {
+	display: none;
+}
+.lcsMoveHandle {
+	cursor: pointer;
+}
+/*Additional admin chat settings interface improvements*/
+.supsystic-chat-settings {
+	background-color: #fff;
+}
+#lcsMainChatSetPanel {
+	float: left;
+}
+#lcsChatTplPreview {
+	float: left;
+	display: inline-block;
+}
+/******/
+/*Admin triggers*/
+.lcsChatTriggersForm {
+	padding: 10px;
+}
+.lcsChatTriggersConditionExRow {
+	display: none;
+}
+.lcsChatTriggerAction {
+	/*padding-right: 10px;*/
+}
+.lcsChatTriggersActions {
+	padding: 10px 0;
+}
+.lcsChatTriggerActionDataShell {
+	display: none;
+	padding: 10px 0 0 15px;
+}
+.lcsCahtTriggerEyeCachImg {
+	margin: 3px 0;
+}
+/*****/
+#lcsChatDesign {
+	padding-top: 0;
+}
+.lcsAdminSoundLink {
+	max-width: 350px;
+	overflow: hidden;
+	display: inline-block;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.lcsChatTriggersCancellBtnTxt {
+	display: none;
+}
+.lcsTriggerCondValue input[type="number"] {
+	width: 60px;
+}
+.lcsTriggersEditFormTitle {
+	font-size: 16px;
+	font-weight: bold;
+	padding: 10px 0 0 0;
+	color: #000;
+}
+.lcsTriggersActionAnimSpeedTxt {
+	width: 100px;
+}
+.supsystic-plugin .button.lcsChatCodeUpdateBtn {
+	height: 25px;
+    line-height: 1;
+    margin-left: 3px;
+    padding: 4px 5px;
+}
+.lcsRegistrationTypeLbl {
+	margin-right: 60px;
+}
+.lcsAgentsEditNameShell {
+	display: none;
+	white-space: initial;
+}
+.lcsAgentsEditNameShell input,
+.lcsAgentsEditNameShell .lcsAgentSaveNameBtn {
+	float: left;
+	display: inline-block;
+}
+.lcsAgentsEditNameShell input[type="text"][name="name"] {
+	margin: 3px 5px 0 0;
+}
+/*choose design styles*/
+#lcsChangeChatTplBtn {
+	float: left;
+	margin: 0 10px 0 0;
+}
+/*edit registration fields*/
+#lcsRegFieldSelectOptShellExl {
+	display: none;
+}
+.lcsRegFieldSelectOptsShell,
+.ui-state-highlight-reg-field-select-opt {
+	border: 1px solid #000;
+	padding: 5px;
+	margin-top: 5px;
+	cursor: move;
+}
+.lcsRegFieldSelectOptsShell:hover {
+	background-color: #dfdfdf;
+}
+.lcsRegFieldSelectOptShell input[type="text"] {
+	max-width: 180px;
+}
+.lcsTimeDisplayOptsShell,
+.lcsDateDisplayOptsShell {
+	display: none;
+}
+.lcsTimeDisplayOptsShell select {
+	margin: 0;
+}
+.lcsDateDisplayOptsShell input[type="text"] {
+	width: 90px;
+}
+#lcsNotifications input[type="text"], 
+#lcsNotifications textarea{
+	width: 100%;
+}
+#lcsChatDesign iframe{
+	min-height: 100px;
+}

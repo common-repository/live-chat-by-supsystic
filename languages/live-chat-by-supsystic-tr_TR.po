@@ -1,0 +1,2754 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Live Chat by Supsystic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-03 12:27+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ahmet Kolcu <ahmet@ahmetkolcu.org>\n"
+"Language-Team: supsystic.com <supsystic.team@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../classes/controller.php:209 ../classes/controller.php:218
+#: ../modules/chat/controller.php:77 ../modules/chat/controller.php:92
+#: ../modules/chat/controller.php:104 ../modules/chat/controller.php:116
+#: ../modules/chat/controller.php:137 ../modules/chat/controller.php:152
+#: ../modules/chat/controller.php:160 ../modules/chat/controller.php:169
+#: ../modules/chat/controller.php:177 ../modules/chat/controller.php:185
+#: ../modules/chat/controller.php:193 ../modules/chat/controller.php:202
+#: ../modules/chat/controller.php:210 ../modules/mail/controller.php:23
+#: ../modules/options/controller.php:6
+#: ../modules/pages/views/tpl/deactivatePage.php:37
+#: ../modules/statistics/controller.php:20
+#: ../modules/statistics/controller.php:29
+msgid "Done"
+msgstr "Tamam"
+
+#: ../classes/field.php:131 ../modules/chat/views/tpl/chatSettingsDesign.php:54
+msgid "Select"
+msgstr "Seç"
+
+#: ../classes/field.php:170 ../classes/field.php:179 ../classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: ../classes/field.php:277
+msgid "Add Checkbox"
+msgstr "İşaret Kutusu Ekle"
+
+#: ../classes/field.php:282 ../classes/field.php:287
+msgid "Add Item"
+msgstr "Öğe Ekle"
+
+#: ../classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Seçenek Düğmesi Ekle"
+
+#: ../classes/field.php:311
+msgid "Dimensions"
+msgstr "Boyutlar"
+
+#: ../classes/field.php:314
+msgid "width"
+msgstr "genişlik"
+
+#: ../classes/field.php:316
+msgid "height"
+msgstr "yükseklik"
+
+#: ../classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Tıkla ve bu alana \"id\" ve \"class\" tanımla"
+
+#: ../classes/field.php:324
+msgid "Attributes"
+msgstr "Öznitelikler"
+
+#: ../classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Bu modül için hiçbir konfigürasyon ayarı bulunmamakta."
+
+#: ../classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Uygula"
+
+#: ../classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "Adres"
+
+#: ../classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Mesafe"
+
+#: ../classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Ülke"
+
+#: ../classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: ../classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "Hiç kategoriniz yok"
+
+#: ../classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Markalar"
+
+#: ../classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "Hiç markanız yok"
+
+#: ../classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Vergi Oranı"
+
+#: ../classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Absolute"
+
+#: ../classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Seçilmedi"
+
+#: ../classes/fieldAdapter.php:184
+msgid "class"
+msgstr "class"
+
+#: ../classes/fieldAdapter.php:186 ../classes/tables/usage_stat.php:7
+msgid "id"
+msgstr "id"
+
+#: ../classes/frame.php:140
+msgid "You have no permissions to view this page"
+msgstr "Bu sayfayı görmek için yetkiniz bulunmamaktadır."
+
+#: ../classes/html.php:242
+msgid "Upload"
+msgstr "Yükle"
+
+#: ../classes/html.php:610 ../modules/chat/js/admin.chat.js:561
+msgid "Default"
+msgstr "Varsayılan"
+
+#: ../classes/html.php:662
+msgid "ON"
+msgstr "AKTİF"
+
+#: ../classes/html.php:663
+msgid "OFF"
+msgstr "KAPALI"
+
+#: ../classes/html.php:687
+#, php-format
+msgid "Select %s"
+msgstr "%s Seç"
+
+#: ../classes/installer.php:567
+msgid "Consultant"
+msgstr "Danışman"
+
+#: ../classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr "Move files for %s failed"
+
+#: ../classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr "%s eklentinin bir modülü değildir"
+
+#: ../classes/modInstaller.php:76
+msgid "Cannot create module directory. Try to set permission to "
+msgstr "Modül dizini oluşturulamadı. Dosya izinlerini buna çevirin"
+
+#: ../classes/modInstaller.php:104
+msgid "No modules were found in XML file"
+msgstr "XML dosyasında hiç modül bulunamadı"
+
+#: ../classes/modInstaller.php:108
+msgid "Invalid XML file"
+msgstr "Geçersiz XML dosyası"
+
+#: ../classes/modInstaller.php:110
+msgid "No XML file were found"
+msgstr "CML dosyası bulunamadı"
+
+#: ../classes/modInstaller.php:123
+#, fuzzy
+#| msgid "No modules were found in XML file"
+msgid "No modules were found in installation file"
+msgstr "XML dosyasında hiç modül bulunamadı"
+
+#: ../classes/modInstaller.php:127
+#, fuzzy
+#| msgid "No XML file were found"
+msgid "No installation file were found"
+msgstr "CML dosyası bulunamadı"
+
+#: ../classes/modInstaller.php:149
+#, php-format
+msgid "Install %s failed"
+msgstr "%s yükleme hatası"
+
+#: ../classes/modInstaller.php:155
+msgid "Error Activate module"
+msgstr "Error Activate module"
+
+#: ../classes/modInstaller.php:184
+msgid "Error Deactivation module"
+msgstr "Error Deactivation module"
+
+#: ../classes/modInstaller.php:201
+msgid "Error Activating module"
+msgstr "Error Activating module"
+
+#: ../classes/model.php:180 ../classes/model.php:192
+#: ../modules/chat/models/chat_templates.php:117
+#: ../modules/chat/models/chat_templates.php:129
+msgid "Database error detected"
+msgstr "Database hatası tespit edildi."
+
+#: ../classes/model.php:182 ../modules/chat/models/chat_templates.php:119
+#: ../modules/chat/models/chat_templates.php:271
+#: ../modules/statistics/models/statistics.php:118
+#: ../modules/statistics/models/statistics.php:149
+msgid "Invalid ID"
+msgstr "Geçersiz ID"
+
+#: ../classes/model.php:222
+msgid "Empty or invalid ID"
+msgstr "Boş veya geçersiz ID"
+
+#: ../classes/table.php:277
+msgid "Nothing to update"
+msgstr "Güncelleme yok"
+
+#: ../classes/table.php:293
+msgid "Database error. Please contact your developer."
+msgstr "Database hatası. Lütfen geliştiriciniz ile iletişime geçin."
+
+#: ../classes/tables/modules.php:7 ../classes/tables/modules_type.php:8
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:111
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:162
+msgid "Label"
+msgstr "Etiket"
+
+#: ../classes/tables/modules.php:8
+msgid "Type"
+msgstr "Tür"
+
+#: ../classes/tables/modules.php:9 ../modules/chat/js/admin.chat.agents.js:8
+msgid "Active"
+msgstr "Aktif"
+
+#: ../classes/tables/modules.php:10
+msgid "Params"
+msgstr "Parametreler"
+
+#: ../classes/tables/modules.php:13
+msgid "Code"
+msgstr "Kod"
+
+#: ../classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "Harici eklenti dizini"
+
+#: ../classes/tables/modules_type.php:7
+#: ../modules/chat/js/admin.chat.agents.js:8
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#: ../modules/chat/js/admin.chat.triggers.js:428
+msgid "ID"
+msgstr "ID"
+
+#: ../classes/tables/usage_stat.php:8
+msgid "code"
+msgstr "kod"
+
+#: ../classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr "ziyaretler"
+
+#: ../classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr "spent_time"
+
+#: ../classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr "modify_timestamp"
+
+#: ../classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr "%s için uzunluk geçersiz, maksimum uzunluk: %s"
+
+#: ../classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr "%s için geçersiz değer"
+
+#: ../classes/validator.php:71
+#: ../modules/registration/models/registration.php:53
+#: ../modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please enter %s"
+msgstr "Lütfen %s girin"
+
+#: ../classes/validator.php:78
+#: ../modules/registration/models/registration.php:52
+#: ../modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please select %s"
+msgstr "Lütfen %s seçin"
+
+#: ../classes/validator.php:85 ../classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr "Geçersiz %s"
+
+#: ../classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr "%s zaten kaydedilmiş."
+
+#: ../js/admin.options.js:139
+msgid "Some changes were not-saved. Are you sure you want to leave?"
+msgstr ""
+
+#: ../js/core.js:204
+msgid "Really small warning :)"
+msgstr ""
+
+#: ../modules/adminmenu/mod.php:15
+#, php-format
+msgid ""
+"Cool WordPress plugins from supsystic.com developers. I tried %s - and this "
+"was what I need! #supsystic.com"
+msgstr ""
+"supsystic.com geliştiricilerinden mükemmel bir wordpress eklentisi. %s "
+"denedim ve bununn ihtiyacım olan olduğunu anladım! #supsystic.com"
+
+#: ../modules/adminmenu/mod.php:16 ../modules/chat/mod.php:34
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ../modules/adminmenu/mod.php:17
+msgid "More plugins for your WordPress site here!"
+msgstr "Wordpress websiten için daha fazla eklenti istiyorsan burada!"
+
+#: ../modules/adminmenu/mod.php:18 ../modules/adminmenu/mod.php:19
+#: ../modules/adminmenu/mod.php:20
+msgid "Spread the word!"
+msgstr "Duymayan Kalmasın!"
+
+#: ../modules/chat/controller.php:12
+msgid "Not Assigned"
+msgstr "Atanmadı"
+
+#: ../modules/chat/controller.php:13
+msgid "Start conversation"
+msgstr "Sohbeti Başlat"
+
+#: ../modules/chat/controller.php:23
+#: ../modules/chat/models/chat_triggers.php:36
+#: ../modules/supsystic_promo/views/supsystic_promo.php:49
+#: ../modules/supsystic_promo/views/supsystic_promo.php:54
+#: ../modules/supsystic_promo/views/supsystic_promo.php:56
+#: ../modules/supsystic_promo/views/supsystic_promo.php:57
+msgid "Yes"
+msgstr "Evet"
+
+#: ../modules/chat/controller.php:23
+#: ../modules/chat/models/chat_triggers.php:37
+#: ../modules/supsystic_promo/views/supsystic_promo.php:49
+#: ../modules/supsystic_promo/views/supsystic_promo.php:54
+#: ../modules/supsystic_promo/views/supsystic_promo.php:56
+#: ../modules/supsystic_promo/views/supsystic_promo.php:57
+msgid "No"
+msgstr "Hayır"
+
+#: ../modules/chat/controller.php:218
+msgid "Updating chat settings page..."
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.agents.js:8
+#: ../modules/chat/js/admin.chat.triggers.js:428
+#: ../modules/chat/models/chat_engines.php:43
+#: ../modules/chat/views/tpl/chatAgentPage.php:96
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:101
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:158
+#: ../modules/supsystic_promo/controller.php:186
+#: ../modules/supsystic_promo/mod.php:158
+msgid "Name"
+msgstr "Adınız"
+
+#: ../modules/chat/js/admin.chat.agents.js:8
+#: ../modules/chat/views/tpl/chatAgentPage.php:101
+#: ../modules/supsystic_promo/mod.php:159
+msgid "Email"
+msgstr "Eposta"
+
+#: ../modules/chat/js/admin.chat.agents.js:8
+msgid "Role"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.agents.js:8
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#, fuzzy
+#| msgid "Created"
+msgid "Date Created"
+msgstr "Oluşturuldu"
+
+#: ../modules/chat/js/admin.chat.agents.js:24
+msgid "Current Agent"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.agents.js:26
+#, fuzzy
+#| msgid "You have no agents for now."
+msgid "You have no Agents for now."
+msgstr "Henüz hiç temsilciniz bulunmamakta."
+
+#: ../modules/chat/js/admin.chat.agents.js:94
+#: ../modules/chat/js/admin.chat.dashboard.js:132
+msgid "Are you sur want to remove "
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.agents.js:95
+#: ../modules/chat/js/admin.chat.dashboard.js:133
+msgid "Are you sure want to remove \""
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#: ../modules/chat/models/chat_sessions.php:144
+#: ../modules/chat/views/tpl/chatAgentPage.php:123
+#: ../modules/chat/views/tpl/chatDashboard.php:20
+msgid "Status"
+msgstr "Durum"
+
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#: ../modules/chat/models/chat_users.php:66
+#, fuzzy
+#| msgid "User Gone"
+msgid "User"
+msgstr "Sohbetten Ayrılan"
+
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#: ../modules/chat/models/chat_users.php:68
+#, fuzzy
+#| msgid "Agents"
+msgid "Agent"
+msgstr "Operatörler"
+
+#: ../modules/chat/js/admin.chat.dashboard.js:11
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:54
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:421
+msgid "Actions"
+msgstr "Eylemler"
+
+#: ../modules/chat/js/admin.chat.dashboard.js:37
+#, fuzzy
+#| msgid "Start Chat!"
+msgid "Current Chat"
+msgstr "Sohbeti Başlat!"
+
+#: ../modules/chat/js/admin.chat.dashboard.js:39
+#, fuzzy
+#| msgid "You have no agents for now."
+msgid "You have no Chats for now."
+msgstr "Henüz hiç temsilciniz bulunmamakta."
+
+#: ../modules/chat/js/admin.chat.js:389
+msgid "You you sure want to change you curent chat template - to \""
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.js:514
+msgid "IPs are blocked"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.js:515
+msgid "No IPs are currently in block list"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.js:535
+msgid "How make Chat appear after click on your content link"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.triggers.js:10
+msgid "Are you sure want to cancell your changes?"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.triggers.js:346
+msgid "Are you sure want to remove this trigger?"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.triggers.js:408
+#: ../modules/chat/js/admin.chat.triggers.js:411
+#, fuzzy
+#| msgid "Enable"
+msgid "Enabled"
+msgstr "Aktif"
+
+#: ../modules/chat/js/admin.chat.triggers.js:409
+#: ../modules/chat/js/admin.chat.triggers.js:411
+msgid "Disabled"
+msgstr ""
+
+#: ../modules/chat/js/admin.chat.triggers.js:428
+#, fuzzy
+#| msgid "Actions"
+msgid "Action"
+msgstr "Eylemler"
+
+#: ../modules/chat/js/admin.chat.triggers.js:440
+#, fuzzy
+#| msgid "Pre-Chats Triggers"
+msgid "Current Trigger"
+msgstr "Sohbet Öncesi Tetikleyici"
+
+#: ../modules/chat/js/admin.chat.triggers.js:443
+#, fuzzy
+#| msgid "You have no agents for now."
+msgid "You have no Triggers for now."
+msgstr "Henüz hiç temsilciniz bulunmamakta."
+
+#: ../modules/chat/js/chat.core.js:601
+msgid "You"
+msgstr ""
+
+#: ../modules/chat/mod.php:454 ../modules/chat/mod.php:455
+msgid "Live Chat Dashboard"
+msgstr "Canlı Sohbet Paneli"
+
+#: ../modules/chat/models/chat.php:60
+#, php-format
+msgid "Chat from %s"
+msgstr ""
+
+#: ../modules/chat/models/chat.php:69
+msgid "Empty content"
+msgstr ""
+
+#: ../modules/chat/models/chat.php:71
+#, fuzzy
+#| msgid "Empty email address"
+msgid "Empty email"
+msgstr "Eposta adres alanı boş"
+
+#: ../modules/chat/models/chat_engines.php:12
+msgid "Default Engine"
+msgstr "Varsayılan Engine"
+
+#: ../modules/chat/models/chat_engines.php:42
+#: ../modules/supsystic_promo/controller.php:185
+msgid "E-Mail"
+msgstr "E-Posta"
+
+#: ../modules/chat/models/chat_engines.php:175
+msgid "Hmm, something is missing here?"
+msgstr "Hmm, burada birşeyler eksik değil mi?"
+
+#: ../modules/chat/models/chat_messages.php:92
+#: ../modules/chat/models/chat_messages.php:117
+msgid "Please enter something"
+msgstr "Lütfen birşey girin"
+
+#: ../modules/chat/models/chat_messages.php:94
+#: ../modules/chat/models/chat_messages.php:119
+#: ../modules/chat/models/chat_sessions.php:222
+#: ../modules/chat/models/chat_users.php:129
+msgid "Something is missing here"
+msgstr "Burada birşey eksik"
+
+#: ../modules/chat/models/chat_sessions.php:41
+msgid "Pending"
+msgstr "Bekleyen"
+
+#: ../modules/chat/models/chat_sessions.php:42
+msgid "In Progress"
+msgstr "Devam Eden"
+
+#: ../modules/chat/models/chat_sessions.php:43
+msgid "Complete"
+msgstr "Tamamlanan"
+
+#: ../modules/chat/models/chat_sessions.php:44
+msgid "User Gone"
+msgstr "Sohbetten Ayrılan"
+
+#: ../modules/chat/models/chat_sessions.php:45
+msgid "Cancelled"
+msgstr "İptal Edilen"
+
+#: ../modules/chat/models/chat_sessions.php:118
+msgid "New chat started notification"
+msgstr ""
+
+#: ../modules/chat/models/chat_sessions.php:121
+#, php-format
+msgid "New chat started on %s"
+msgstr ""
+
+#: ../modules/chat/models/chat_sessions.php:122
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:63
+msgid ""
+"New chat was started on your site <a href=\"[siteurl]\">[sitename]</a>.<br /"
+"><b>User information:</b><br />[user_data]<br /><b>Session information:</"
+"b><br />[session_data]<br />"
+msgstr ""
+
+#: ../modules/chat/models/chat_sessions.php:145
+#: ../modules/chat/views/tpl/chatAgentPage.php:119
+msgid "IP"
+msgstr "IP"
+
+#: ../modules/chat/models/chat_sessions.php:146
+#: ../modules/chat/models/chat_triggers.php:20
+msgid "URL"
+msgstr "URL"
+
+#: ../modules/chat/models/chat_sessions.php:147
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:348
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:421
+msgid "Date"
+msgstr "Tarih"
+
+#: ../modules/chat/models/chat_sessions.php:158
+#, fuzzy
+#| msgid "User Data"
+msgid "No user data"
+msgstr "Kullanıcı Bilgisi"
+
+#: ../modules/chat/models/chat_sessions.php:159
+msgid "No session data available"
+msgstr ""
+
+#: ../modules/chat/models/chat_templates.php:89
+msgid "img/preview/"
+msgstr "img/preview/"
+
+#: ../modules/chat/models/chat_templates.php:186
+#: ../modules/chat/models/chat_templates.php:302
+msgid "Provided data was corrupted"
+msgstr "Belirtilen veri bozulmuş."
+
+#: ../modules/chat/models/chat_templates.php:273
+msgid "Please enter Name"
+msgstr "Lütfen adınızı girin"
+
+#: ../modules/chat/models/chat_templates.php:300
+msgid "Con not find required templates"
+msgstr ""
+
+#: ../modules/chat/models/chat_triggers.php:15
+msgid "Agent Online"
+msgstr "Operatör Çevrimiçi"
+
+#: ../modules/chat/models/chat_triggers.php:16
+msgid "Pages / Posts"
+msgstr "Sayfalar / Yazılar"
+
+#: ../modules/chat/models/chat_triggers.php:17
+msgid "For Countries"
+msgstr "Ülkeler için"
+
+#: ../modules/chat/models/chat_triggers.php:18
+msgid "Hour of the Day"
+msgstr "Günün Saati"
+
+#: ../modules/chat/models/chat_triggers.php:19
+msgid "Day of the Week"
+msgstr "Haftanın Gününde"
+
+#: ../modules/chat/models/chat_triggers.php:21
+msgid "Time spent on Page"
+msgstr "Sayfada harcanan zaman"
+
+#: ../modules/chat/models/chat_triggers.php:22
+msgid "On Exit"
+msgstr ""
+
+#: ../modules/chat/models/chat_triggers.php:30
+msgid "More then"
+msgstr "Fazlaysa"
+
+#: ../modules/chat/models/chat_triggers.php:31
+msgid "Less then"
+msgstr "Azsa"
+
+#: ../modules/chat/models/chat_triggers.php:32
+msgid "Equal"
+msgstr "Eşitse"
+
+#: ../modules/chat/models/chat_triggers.php:33
+msgid "Not equal"
+msgstr "Eşit Değilse"
+
+#: ../modules/chat/models/chat_triggers.php:34
+msgid "Like"
+msgstr "Benzer"
+
+#: ../modules/chat/models/chat_triggers.php:35
+msgid "Not like"
+msgstr "Benzemez"
+
+#: ../modules/chat/models/chat_triggers.php:46
+#, fuzzy
+#| msgid "Show eae catcher"
+msgid "Show eye catcher"
+msgstr "Dikkat Çekici Nesne Göster"
+
+#: ../modules/chat/models/chat_triggers.php:47
+msgid "Auto start chat"
+msgstr "Sohbeti Otomatik Başlat"
+
+#: ../modules/chat/models/chat_triggers.php:48
+msgid "Auto open chat"
+msgstr "Sohbet Penceresini Otomatik aç"
+
+#: ../modules/chat/models/chat_triggers.php:105
+msgid "Please select at least one action for trigger"
+msgstr "Tetikleyiniz için en az bir eylem seçiniz"
+
+#: ../modules/chat/models/chat_triggers.php:107
+msgid "Please enter trigger name"
+msgstr "Lütfen tetikleyiniz için isim girin"
+
+#: ../modules/chat/models/chat_users.php:67
+msgid "Admin"
+msgstr ""
+
+#: ../modules/chat/models/chat_users.php:69
+msgid "Bot"
+msgstr ""
+
+#: ../modules/chat/models/chat_users.php:127
+msgid "Name can not be empty"
+msgstr ""
+
+#: ../modules/chat/views/chat.php:51 ../modules/chat/views/chat.php:255
+msgid "None"
+msgstr "Yok"
+
+#: ../modules/chat/views/chat.php:52
+msgid "Image"
+msgstr "Resim"
+
+#: ../modules/chat/views/chat.php:53
+msgid "Color"
+msgstr "Renk"
+
+#: ../modules/chat/views/chat.php:57
+msgid "Mobile"
+msgstr "Mobil"
+
+#: ../modules/chat/views/chat.php:58
+msgid "Tablet"
+msgstr "Tablet"
+
+#: ../modules/chat/views/chat.php:59
+msgid "Desktop PC"
+msgstr "Masaüstü PC"
+
+#: ../modules/chat/views/chat.php:78
+msgid "Main Home page"
+msgstr "Anasayfa"
+
+#: ../modules/chat/views/chat.php:152
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: ../modules/chat/views/chat.php:157
+msgid "Texts"
+msgstr "Yazılar"
+
+#: ../modules/chat/views/chat.php:165
+msgid "Design"
+msgstr "Tasarım"
+
+#: ../modules/chat/views/chat.php:170
+msgid "When show"
+msgstr "Görünülme"
+
+#: ../modules/chat/views/chat.php:175
+msgid "Pre-Chats Triggers"
+msgstr "Sohbet Öncesi Tetikleyici"
+
+#: ../modules/chat/views/chat.php:180
+msgid "User Registration"
+msgstr "Kullanıcı Kaydı"
+
+#: ../modules/chat/views/chat.php:185
+#, fuzzy
+#| msgid "Sound Notification"
+msgid "Notifications"
+msgstr "Sesli Uyarı"
+
+#: ../modules/chat/views/chat.php:190
+msgid "Agents"
+msgstr "Operatörler"
+
+#: ../modules/chat/views/chat.php:195
+msgid "CSS / HTML Code"
+msgstr "CSS/HTML Kodları"
+
+#: ../modules/chat/views/chat.php:274
+#, fuzzy
+#| msgid "Texts"
+msgid "Text"
+msgstr "Yazılar"
+
+#: ../modules/chat/views/chat.php:275
+msgid "Text area"
+msgstr ""
+
+#: ../modules/chat/views/chat.php:276
+#, fuzzy
+#| msgid "Select"
+msgid "Selectbox"
+msgstr "Seç"
+
+#: ../modules/chat/views/chat.php:277
+#, fuzzy
+#| msgid "Add Checkbox"
+msgid "Checkbox"
+msgstr "İşaret Kutusu Ekle"
+
+#: ../modules/chat/views/chat.php:278
+msgid "Hidden Field"
+msgstr ""
+
+#: ../modules/chat/views/chat.php:309
+msgid "Bounce"
+msgstr "Bounce"
+
+#: ../modules/chat/views/chat.php:310
+msgid "Bounce Up"
+msgstr "Bounce Up"
+
+#: ../modules/chat/views/chat.php:311
+msgid "Bounce Down"
+msgstr "Bounce Down"
+
+#: ../modules/chat/views/chat.php:312
+msgid "Bounce Left"
+msgstr "Bounce Left"
+
+#: ../modules/chat/views/chat.php:313
+msgid "Bounce Right"
+msgstr "Bounce Right"
+
+#: ../modules/chat/views/chat.php:315
+msgid "Fade"
+msgstr "Fade"
+
+#: ../modules/chat/views/chat.php:316
+msgid "Fade Up"
+msgstr "Fade Up"
+
+#: ../modules/chat/views/chat.php:317
+msgid "Fade Down"
+msgstr "Fade Down"
+
+#: ../modules/chat/views/chat.php:318
+msgid "Fade Left"
+msgstr "Fade Left"
+
+#: ../modules/chat/views/chat.php:319
+msgid "Fade Right"
+msgstr "Fade Right"
+
+#: ../modules/chat/views/chat.php:321
+msgid "Flip X"
+msgstr "Flip X"
+
+#: ../modules/chat/views/chat.php:322
+msgid "Flip Y"
+msgstr "Flip Y"
+
+#: ../modules/chat/views/chat.php:324
+msgid "Rotate"
+msgstr "Rotate"
+
+#: ../modules/chat/views/chat.php:325
+msgid "Rotate Up Left"
+msgstr "Rotate Up Left"
+
+#: ../modules/chat/views/chat.php:326
+msgid "Rotate Up Right"
+msgstr "Rotate Up Right"
+
+#: ../modules/chat/views/chat.php:327
+msgid "Rotate Down Left"
+msgstr "Rotate Down Left"
+
+#: ../modules/chat/views/chat.php:328
+msgid "Rotate Down Right"
+msgstr "Rotate Down Right"
+
+#: ../modules/chat/views/chat.php:330
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: ../modules/chat/views/chat.php:331
+msgid "Slide Down"
+msgstr "Slide Down"
+
+#: ../modules/chat/views/chat.php:332
+msgid "Slide Left"
+msgstr "Slide Left"
+
+#: ../modules/chat/views/chat.php:333
+msgid "Slide Right"
+msgstr "Slide Right"
+
+#: ../modules/chat/views/chat.php:335
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ../modules/chat/views/chat.php:336
+msgid "Zoom Up"
+msgstr "Zoom Up"
+
+#: ../modules/chat/views/chat.php:337
+msgid "Zoom Down"
+msgstr "Zoom Down"
+
+#: ../modules/chat/views/chat.php:338
+msgid "Zoom Left"
+msgstr "Zoom Left"
+
+#: ../modules/chat/views/chat.php:339
+msgid "Zoom Right"
+msgstr "Zoom Right"
+
+#: ../modules/chat/views/chat.php:341
+msgid "Light Speed"
+msgstr "Light Speed"
+
+#: ../modules/chat/views/chat.php:342
+msgid "Rolling!"
+msgstr "Rolling!"
+
+#: ../modules/chat/views/chat.php:420
+msgid "Print"
+msgstr ""
+
+#: ../modules/chat/views/chat.php:421
+#, fuzzy
+#| msgid "Send email"
+msgid "Send to email"
+msgstr "Gönder"
+
+#: ../modules/chat/views/chat.php:422
+msgid "Switch sound"
+msgstr ""
+
+#: ../modules/chat/views/chat.php:474
+#, fuzzy
+#| msgid "Empty email address"
+msgid "Enter your email here"
+msgstr "Eposta adres alanı boş"
+
+#: ../modules/chat/views/chat.php:475
+#: ../modules/chat/views/tpl/chatSettingsTopFormControls.php:4
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:17
+#: ../modules/mail/views/tpl/mailAdmin.php:69
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:6
+msgid "Save"
+msgstr "Kaydet"
+
+#: ../modules/chat/views/chat.php:476
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:7
+#, fuzzy
+#| msgid "Cancelled"
+msgid "Cancell"
+msgstr "İptal Edilen"
+
+#: ../modules/chat/views/chat.php:553
+msgid "Top Left"
+msgstr "Sol Üst"
+
+#: ../modules/chat/views/chat.php:554
+msgid "Top Center"
+msgstr "Orta Üst"
+
+#: ../modules/chat/views/chat.php:555
+msgid "Top Right"
+msgstr "Sağ Üst"
+
+#: ../modules/chat/views/chat.php:557
+msgid "Bottom Left"
+msgstr "Sol Alt"
+
+#: ../modules/chat/views/chat.php:558
+msgid "Bottom Center"
+msgstr "Alt Orta"
+
+#: ../modules/chat/views/chat.php:559
+msgid "Bottom Right"
+msgstr "Sağ Alt"
+
+#: ../modules/chat/views/chat.php:575
+msgid "All"
+msgstr "Tümü"
+
+#: ../modules/chat/views/chat.php:586
+msgid "Can not find Session"
+msgstr "Oturum bulunamadı"
+
+#: ../modules/chat/views/chat.php:591
+#: ../modules/registration/models/registration.php:31
+msgid "Can not find Engine"
+msgstr "Engine bulunamadı"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:3
+msgid "Agents Support"
+msgstr "Operatör Desteği"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:49
+msgid "Chat"
+msgstr "Sohbet"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:80
+#: ../modules/supsystic_promo/controller.php:192
+msgid "Send"
+msgstr "Gönder"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:92
+msgid "User Data"
+msgstr "Kullanıcı Bilgisi"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:106
+msgid "Chat Session Data"
+msgstr "Sohbet Oturum Bilgisi"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:109
+msgid "Created"
+msgstr "Oluşturuldu"
+
+#: ../modules/chat/views/tpl/chatAgentPage.php:114
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:131
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:154
+msgid "From"
+msgstr "Nereden"
+
+#: ../modules/chat/views/tpl/chatDashboard.php:10
+#: ../modules/chat/views/tpl/chatDashboard.php:13
+#: ../modules/chat/views/tpl/chatSettingsAgents.php:7
+msgid "Delete selected"
+msgstr "Seçilileri Sil"
+
+#: ../modules/chat/views/tpl/chatDashboard.php:17
+#: ../modules/chat/views/tpl/chatDashboard.php:18
+msgid "Search"
+msgstr "Ara"
+
+#: ../modules/chat/views/tpl/chatDashboard.php:30
+msgid "Refresh"
+msgstr "Yenile"
+
+#: ../modules/chat/views/tpl/chatDashboard.php:40
+msgid "You have no active Chats for now."
+msgstr "Henüz aktif sohbet pencereniz bulunmamaktadır."
+
+#: ../modules/chat/views/tpl/chatExtraUserFields.php:4
+msgid "Live Chat Agent"
+msgstr "Canlı Destek Operatörü"
+
+#: ../modules/chat/views/tpl/chatExtraUserFields.php:9
+msgid "You can make anyone - agent for your live chat"
+msgstr "Dilediğiniz kullanıcıyı canlı destek operatörü olarak atayabilirsiniz."
+
+#: ../modules/chat/views/tpl/chatSettingsAdmin.php:72
+msgid "Loading preview..."
+msgstr "Önizleme yükleniyor..."
+
+#: ../modules/chat/views/tpl/chatSettingsAdmin.php:77
+msgid "Back to top"
+msgstr "Başa Dön"
+
+#: ../modules/chat/views/tpl/chatSettingsAgents.php:3
+msgid "Add New Agent"
+msgstr "Yeni Operatör Ekle"
+
+#: ../modules/chat/views/tpl/chatSettingsAgents.php:13
+msgid "You have no agents for now."
+msgstr "Henüz hiç temsilciniz bulunmamakta."
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:3
+#, php-format
+msgid ""
+"Edit this ONLY if you know basics of HTML, CSS and have been acquainted with "
+"the rules of template editing described <a target=\"_blank\" href=\"%s"
+"\">here</a>"
+msgstr ""
+"Bu alanı eğer HTML, CSS ve <a target=\"_blank\" href=\"%s\">burada</a> "
+"açıklanan kurallar ve şablonları biliyorsanız düzenleyiniz."
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:7
+msgid "CSS code"
+msgstr "CSS Kodu"
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:8
+msgid "Update CSS code to latest version from original template"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:10
+#: ../modules/chat/views/tpl/chatSettingsCode.php:20
+msgid "Update from Default"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:17
+msgid "HTML code"
+msgstr "HTML Kodu"
+
+#: ../modules/chat/views/tpl/chatSettingsCode.php:18
+msgid "Update HTML code to latest version from original template"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:3
+msgid "Chat Position"
+msgstr "Pencere Konumu"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:5
+#, fuzzy
+#| msgid "Position of your chat on user scree"
+msgid "Position of your chat on user screen"
+msgstr "Ziyaretçilere gösterilen pencrenin sayfadaki konumu"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:15
+msgid "Width"
+msgstr "Genişlik"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:17
+msgid "Width of your chat window"
+msgstr "Sohbet penceresinin genişliği"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:21
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:39
+msgid "Max width for percentage - is 100"
+msgstr "Yüzdelik olarak Max-width"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:23
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:43
+msgid "Percents"
+msgstr "Yüzde"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:27
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:49
+msgid "Pixels"
+msgstr "Piksel"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:32
+msgid "Height of Messages box"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:34
+msgid "Maximum height for messages box in Chat"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:54
+msgid "Chat Bar padding"
+msgstr "Sohbet Çubuğu Paddingi"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:56
+msgid "Chat bar offset from the edge of the screen"
+msgstr "Ekrana göre sohbet çubuğunun padding ayarı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:65
+msgid "Main Theme Color"
+msgstr "Ana Tema Rengi"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:67
+msgid "Main color will define main theme design"
+msgstr "Ana renk ayarı, tüm temanın belirli renklerini ayarlar."
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:74
+msgid "Main Theme Titles Color"
+msgstr "Ana Tema Başlık Renkleri"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:76
+msgid "Main color for all text titles on your chat"
+msgstr "Tüm yazı başlıklarının rengini ayarlar"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:83
+msgid "Main Background Color"
+msgstr "Ana Arkaplan Rengi"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:85
+msgid "Main background color for your chat window"
+msgstr "Sohbet penceresnin arkaplanını ayarlar"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:92
+msgid "Main Text Color"
+msgstr "Ana Yazı Rengi"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:94
+msgid "Main color for all text in your chat messages and texts"
+msgstr "Sohbet mesajları ve yazılarının ana rengini ayarlar"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:101
+msgid "Main Font Family"
+msgstr "Ana Font Türü"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:103
+msgid "You can select font type for your Chat here"
+msgstr "Buradan sohbet pencresi yazılarının fontunu belirleyebilirsiniz."
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:114
+msgid "Draggable"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:116
+msgid "Allow users to drag chat screen in any place of browser window"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:121
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:133
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:150
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:162
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:10
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:31
+msgid "Enable"
+msgstr "Aktif"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:126
+msgid "Enable Agent avatar"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:128
+msgid "Enable agent avatar when this is possible to display in Chat window."
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:139
+#, fuzzy
+#| msgid "Enable"
+msgid "Enable Rating"
+msgstr "Aktif"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:141
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:58
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:139
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:33
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:84
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:52
+msgid "PRO option"
+msgstr "PRO seçeneği"
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:145
+#, php-format
+msgid ""
+"Enable agent Rating buttons. If enabled - user will be able to rate agent, "
+"and you will see - who is best agent from your team. <img src=\"%s\" />"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:155
+msgid "Enable additonal chat options"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesAppearance.php:157
+msgid ""
+"Buttons that allow disable sound, or print chat conversation from frontend "
+"for example."
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:4
+msgid "Chat Bar Title Text"
+msgstr "Sohbet Başlığı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:6
+#, fuzzy
+#| msgid "Text on your chat bar that user will see before chat open"
+msgid "Text on your chat bar that user will see before chat opens"
+msgstr "Sohbet çubuğundaki görünecek başlık "
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:14
+msgid "\"Send Message\" button text"
+msgstr "\"Send Message\" buton yazısı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:16
+msgid "Text for main send button in your chat"
+msgstr "Sohbet içerisinde yer alan gönder butonun yazısı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:23
+msgid "\"Wait\" message"
+msgstr "\"Wait\" mesajı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:25
+msgid "Message that users will see before operator will start chat"
+msgstr "Operatöre bağlanırken ziyaretçiye gösterilecek mesaj"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:34
+msgid "Chat header text"
+msgstr "Sohbet Üst Kısım Yazısı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:36
+msgid "You can add some text to the header of your main chat section"
+msgstr "Sohbet ekranının üst kısmına yazı ekleyebilirsiniz"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:45
+msgid "Complete chat text"
+msgstr "Sohbet Tamamlandı Mesajı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:47
+msgid "Text that users will see after chat will be completed"
+msgstr "Sohbet tamamlandığında ziyaretçilere gösterilecek mesaj"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:57
+msgid "\"Operator joined chat\" message"
+msgstr "\"Operatör bağlandı\" mesajı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:58
+msgid ""
+"Use [name] tag in this field, it will be replaced to operator name in chat "
+"session"
+msgstr ""
+"Bu alanda [name] etiketini kullanın, bu etiket operatörün ismi yerine "
+"geçecektir."
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:61
+msgid "Text that will show when operator is joined user chat"
+msgstr "Operaötr sohbete girdiğinde gösterilecek mesaj yazısı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:71
+#, fuzzy
+#| msgid "Default value for your field"
+msgid "Default text for message field"
+msgstr "Bu bölüm için varsayılan değer"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:74
+msgid ""
+"This text will be placed in message text (placeholder) to indicate where "
+"exactly user should start print his message"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:78
+#: ../modules/supsystic_promo/controller.php:202
+msgid "Ask me here..."
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:83
+msgid "\"Register\" button text"
+msgstr "\"Register\" buton yazısı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:85
+msgid "Text that will appear on your registration button"
+msgstr "Bu yazı kayıt ol butonunda görünecektir."
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:94
+msgid "Before registration message text"
+msgstr "Kayıt olmazdan önceki uyarı mesajı"
+
+#: ../modules/chat/views/tpl/chatSettingsDesTexts.php:96
+msgid "Text that will appear on registration form if registration is enabled"
+msgstr "Bu yazı eğer kayıt olma aktif ise kayıt formunda görünecektir."
+
+#: ../modules/chat/views/tpl/chatSettingsDesign.php:3
+msgid "Choose Chat Template"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsDesign.php:44
+msgid "Select your chat design"
+msgstr "Sohbet Pencere tasarımı seç"
+
+#: ../modules/chat/views/tpl/chatSettingsDesign.php:52
+msgid "Get in PRO"
+msgstr "PRO Satın Al"
+
+#: ../modules/chat/views/tpl/chatSettingsDesign.php:54
+msgid "Selected"
+msgstr "Seçilen"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:3
+msgid "Sound Notification"
+msgstr "Sesli Uyarı"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:5
+msgid ""
+"Sound that will be played for your users and support agents once new message "
+"is arrived."
+msgstr "Kullanıcı veya operatör mesaj attığında çıkacak olan ses"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:14
+msgid "Select Sound"
+msgstr "Ses Seç"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:18
+msgid "Set default"
+msgstr "Varsayılan Yap"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:24
+#, fuzzy
+#| msgid "Live Chat Dashboard"
+msgid "Auto update Dashboard"
+msgstr "Canlı Sohbet Paneli"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:26
+msgid ""
+"Periodically auto update Agents Dashboard - to check new chat sessions in "
+"auto mode. Once new message will arrive - sound notification will be "
+"triggered."
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:37
+msgid "New chat start notification"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:40
+msgid ""
+"Enter the email addresses that should receive notifications (separate by "
+"comma) about new chat start. Leave it blank - and you will not get any "
+"notifications."
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:52
+#, fuzzy
+#| msgid "Send test email to"
+msgid "New chat start email text"
+msgstr "Test postası gönderilecek adres"
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:54
+#, php-format
+msgid "You can use next variables here: %s"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsNotifications.php:57
+#, fuzzy
+#| msgid "Message that users will see before operator will start chat"
+msgid "Message that you will receive about new chat start on your site."
+msgstr "Operatöre bağlanırken ziyaretçiye gösterilecek mesaj"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:1
+msgid "Fully disable registration for your chat"
+msgstr "Sohbet için kayıt olma özelliğini tamamen kapat."
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:6
+msgid "No Registration"
+msgstr "Kayıt Olma Kapalı"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:8
+msgid "Registration will be enabled, but not required"
+msgstr "Kayıt olma aktif, fakat zorunlu değil"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:13
+msgid "Ask for Registration"
+msgstr "Kayıt Olmayı İste"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:15
+msgid ""
+"Registration will required: user will not be able to start chat without it"
+msgstr ""
+"Kayıt olma zorunlu olacak: ziyaretçi kayıt olmadan sohbete başlayamayacak."
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:20
+msgid "Required"
+msgstr "Zorunlu"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:47
+msgid "Registration Fields"
+msgstr "Kayıt Olma Gereksinimleri"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:49
+msgid ""
+"To change field position - just drag-&-drop it to required place between "
+"other fields. To add new field to Subscribe form - click on \"+ Add\" button."
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:54
+#, fuzzy
+#| msgid "Address"
+msgid "Add"
+msgstr "Adres"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:84
+msgid "Edit"
+msgstr "Düzenle"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:88
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:165
+msgid "Remove"
+msgstr "Sil"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:97
+msgid "Field Settings"
+msgstr "Ayarlar"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:103
+#, php-format
+msgid ""
+"Name (key) for your field. This parameter is for system - to be able to "
+"determine the field. Use here only latin letters, numbers, symbols -_+ and "
+"space. For more info about this parameter - your can check <a href=\"%s\" "
+"target=\"_blank\">this page</a>."
+msgstr ""
+"Bu alanın isim (anahtar) kısmıdır. Bu alanın sistem okuyacağı için yalnızca "
+"latin harfler, rakamlar, semboller -_+ ve boşluk gibi şeyler kullanın. Daha "
+"fazla bilgi için  <a href=\"%s\" target=\"_blank\">bu sayfayı </a>okuyunuz."
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:112
+msgid "Label that will be visible for your users."
+msgstr "Bu bölüm kullanıcıların göreceği alandır."
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:120
+msgid "Value"
+msgstr "Değer"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:121
+msgid "Default value for your field"
+msgstr "Bu bölüm için varsayılan değer"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:129
+#, fuzzy
+#| msgid "HTML code"
+msgid "HTML Type"
+msgstr "HTML Kodu"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:130
+msgid "Input HTML type"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:146
+#, fuzzy
+#| msgid "Select %s"
+msgid "Select Options"
+msgstr "%s Seç"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:174
+msgid "Mandatory"
+msgstr "Zorunlu mu"
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:175
+msgid ""
+"Is this field mandatory to fill-in. If yes - then users will not be able to "
+"continue without filling-in this field."
+msgstr ""
+"Bu alanı doldurmak zorunlu olsun istiyorsanız işaretleyin. Böylece "
+"kullanıcılar bu alanı doldurmadan devam edemeyecekler. "
+
+#: ../modules/chat/views/tpl/chatSettingsRegistration.php:186
+#, fuzzy
+#| msgid "Registration Fields"
+msgid "Registration Field Settings"
+msgstr "Kayıt Olma Gereksinimleri"
+
+#: ../modules/chat/views/tpl/chatSettingsTopFormControls.php:2
+msgid "Save all changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: ../modules/chat/views/tpl/chatSettingsTopFormControls.php:8
+msgid "Preview"
+msgstr "Önizleme"
+
+#: ../modules/chat/views/tpl/chatSettingsTopFormControls.php:11
+msgid "Turn Off"
+msgstr "Kapat"
+
+#: ../modules/chat/views/tpl/chatSettingsTopFormControls.php:12
+msgid "Turn On"
+msgstr "Aç"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:4
+msgid "Add Trigger"
+msgstr "Tetikleyici Ekle"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:12
+msgid "Trigger Name"
+msgstr "Tetikleyici Adı"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:19
+msgid "Conditions"
+msgstr "Koşullar"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:81
+#, fuzzy
+#| msgid "Animation speed"
+msgid "Animation type"
+msgstr "Animasyon Hızı"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:94
+msgid "Animation speed"
+msgstr "Animasyon Hızı"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:101
+msgid "ms"
+msgstr "ms"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:110
+msgid "Default message for auto-opened chat"
+msgstr "Otomatik açılan sohbet için varsayılan mesaj"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:128
+msgid ""
+"You have no triggers for now. You can simply click <a href=\"#\" class="
+"\"lcsChatTriggersAddBtn\">here</a> to add new one, or on button above."
+msgstr ""
+"Henüz hiç tetikleyiniz yok. Sadece <a href=\"#\" class="
+"\"lcsChatTriggersAddBtn\">buraya tıklayarak</a> yeni bir tane kleyebilir, "
+"veya yukarıdan ekleyebilirsiniz."
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:137
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:109
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:118
+msgid "Choose Pages"
+msgstr "Sayfaları Seç"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:140
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:280
+msgid "Choose countries"
+msgstr "Ülkeleri Seç"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:146
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:176
+msgid "Choose week days"
+msgstr "Haftanın günlerini seç"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:151
+msgid "Min"
+msgstr "Dk"
+
+#: ../modules/chat/views/tpl/chatSettingsTriggers.php:155
+msgid "Sec"
+msgstr "Sn"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:2
+msgid "When to show Chat"
+msgstr "Pencere Ne zaman Görünecek?"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:8
+msgid "When page loads"
+msgstr "Sayfa yüklendiğinde"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:13
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:60
+msgid "Delay for"
+msgstr "Gecikme"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:20
+msgid "Seconds"
+msgstr "Saniye türünden"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:20
+msgid "sec"
+msgstr "sn"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:27
+msgid "User click on the page"
+msgstr "Sayfaya tıklandığında"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:33
+msgid "Click on certain link / button / other element"
+msgstr "Buton/Link gibi elemente tıklandığında"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:36
+msgid "Copy & paste next code - into required link to open Chat on Click"
+msgstr "Sohbetin açılması için alttaki kodu kopyalayıp & yapıştırın"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:39
+#, php-format
+msgid ""
+"Check screenshot with details - <a onclick=\"lcsShowTipScreenPopUp(this); "
+"return false;\" href=\"%s\">here</a>."
+msgstr ""
+"Detaylar için ekran görüntülerine  <a onclick=\"lcsShowTipScreenPopUp(this); "
+"return false;\" href=\"%s\">buradan</a> bakınız."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:41
+msgid ""
+"Or, if you know HTML basics, - you can insert \"onclick\" attribute to any "
+"of your element from code below"
+msgstr ""
+"Veya, HTML biliyorsanız, - altta yer alan \"onclick\" fonksiyonunu "
+"istediğiniz yere gömebilirsiniz."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:45
+msgid "Or you can even use it for your Menu item, just add code"
+msgstr ""
+"Veya dilerseniz menü öğesi olarak alttaki kodu kullanarak yapabilirsiniz"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:49
+msgid ""
+"into your menu item \"Title Attribute\" field. Don't worry - users will not "
+"see this code as menu item title on your site."
+msgstr ""
+"bunu \"Bağlantı Metni\" kısmı içerisine yapıştırınız - merak etmeyin "
+"kullanıcılar bu kodu görmeyecektir."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:55
+msgid "Scroll window"
+msgstr "Pencere Kaydırıldığında"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:64
+msgid "seconds after first scroll"
+msgstr "ilk scrolldan saniye sonra"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:68
+msgid "Scrolled to"
+msgstr "Scroll miktarı"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:72
+msgid "percents of total scroll"
+msgstr "toplam miktarının yüzdesi"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:80
+msgid "Show when user tries to exit from your site."
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:81
+msgid "On Exit from Site"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:87
+#, fuzzy
+#| msgid "Allow or not send message by user until agent will not start chat"
+msgid "To allow user to send message before agent starts chatting or not"
+msgstr ""
+"Ziyaretçinin, operatör mesajı başlatmadan mesaj göndermesine izin verme"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:90
+#, fuzzy
+#| msgid "Wait agent response"
+msgid "Wait for agent response"
+msgstr "Operatör Mesajını Bekle"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:94
+msgid "Show on next pages"
+msgstr "Diğer Sayfalarda Gösterim"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:100
+msgid "All pages"
+msgstr "Tüm Sayfalarda Göster"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:106
+msgid "Show on next pages / posts"
+msgstr "Şu sayfalarda göster:"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:115
+msgid "Don't show on next pages / posts"
+msgstr "Şu İç Sayfalarda Gösterme"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:122
+#, fuzzy
+#| msgid "Field Settings"
+msgid "Time display settings"
+msgstr "Ayarlar"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:128
+msgid "Set display time"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:137
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:158
+msgid "to"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:145
+msgid "Date display settings"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:151
+msgid "Set display date"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:164
+msgid "Days display settings"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:170
+msgid "Set display days"
+msgstr ""
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:181
+msgid "Whom to show"
+msgstr "Kimlere Gösterilsin"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:187
+msgid "Everyone"
+msgstr "Herkese"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:193
+msgid "For first-time visitors"
+msgstr "İlk Defa Ziyaret Edenlere"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:196
+msgid ""
+"Will remember user visit for entered number of days and show Chat to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+"Buraya girilen gün miktarı kadar ziyaretçinin çerezi tutulup o peryotta "
+"gösterilecektir. Tek bir tarayıcının sessionda hatırlaması için 0 girin, "
+"daime hatırlaması için büyük bir rakam girin - 99999 gibi."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:197
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:213
+msgid "Remember for"
+msgstr "Seçeneği şu"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:202
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:218
+msgid "days"
+msgstr "gün için hatırla"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:205
+msgid "Registration, Chat session start, etc."
+msgstr "Kayıt olma, sohbet başlatma vb."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:209
+msgid "Until user makes an action"
+msgstr "Ziyaretçi bir hareket yaptığında"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:212
+msgid ""
+"Will remember user action for entered number of days and show Chat to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+"Buraya girilen gün miktarı kadar ziyaretçinin çerezi tutulup o peryotta "
+"gösterilecektir. Tek bir tarayıcının sessionda hatırlaması için 0 girin, "
+"daime hatırlaması için büyük bir rakam girin - 99999 gibi."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:222
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:237
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:252
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:268
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:283
+msgid "Click to revert feature function: from Hide - to Show, and vice versa."
+msgstr ""
+"Tıklayarak seçeneği belirleyebilirsiniz. Gizleden Göstere geçmek için gibi.."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:223
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:238
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:253
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:269
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:284
+msgid "Hide"
+msgstr "Gizle"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:223
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:238
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:253
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:269
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:284
+msgid "Show Only"
+msgstr "Yalnızca Göster"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:228
+msgid "for Devices"
+msgstr "Aygıt Seçenekleri"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:229
+msgid ""
+"You can make Chat visible or hidden only when users will view your site from "
+"selected devices."
+msgstr ""
+"Sohbet penceresini seçilen aygıtlara göre gizleyebilir veya sadece o "
+"aygıtlarda gösterebilirsiniz."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:234
+msgid "Choose devices"
+msgstr "Aygıt seç"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:243
+msgid "for Post Types"
+msgstr "Yazı Türleri"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:244
+#, fuzzy
+#| msgid ""
+#| "You can make Chat visible or hidden only for specified Pos Types, for "
+#| "example - hide it on all Pages."
+msgid ""
+"You can make Chat visible or hidden only for specified Post Types, for "
+"example - hide it on all Pages."
+msgstr ""
+"Sohbet penceresini seçilen yazı türlerine göre gizleyebilir veya sadece o "
+"aygıtlarda gösterebilirsiniz."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:249
+msgid "Choose post types"
+msgstr "Yazı türü seç"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:258
+msgid "for IP"
+msgstr "IP için"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:259
+#, php-format
+msgid ""
+"For those IPs Chat will not be displayed (or vice versa - depending on Hide/"
+"Show Only option). Please be advised that your IP - %s"
+msgstr ""
+"Seçtğiniz IP adreslerine sohbet penceresi gösterilmeyecek veya sadece o ip "
+"adreslerine gösterilecektir. Dikkat edinn sizin IP adresiniz - %s"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:261
+msgid "Show IPs List"
+msgstr "IP Listesini Göster"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:274
+msgid "for Countries"
+msgstr "Ülkelere Göre"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:275
+#, php-format
+msgid ""
+"For those Countries Chat will not be displayed (or vice versa - depending on "
+"Hide/Show Only option). Please be advised that your Country code is %s"
+msgstr ""
+"Seçilen ülkelerde sohbet penceresi gösterilemeyecektir ( veya tam tersi- "
+"Gizle/Yalnızca göster seçiminize bağlıdır). Dikkat edin ülke kodunuz: %s"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:289
+msgid "for Languages"
+msgstr "Dile Göre"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:290
+#, php-format
+msgid ""
+"For those Languages Chat will not be displayed. Language is defined by "
+"visitor browser language. Please be advised that your browser language is %s"
+msgstr ""
+"Seçilen dillerde sohbet penceresi gösterilemeyecektir ( veya tam tersi- "
+"Gizle/Yalnızca göster seçiminize bağlıdır). Dikkat edin tarayıcı dil "
+"kodunuz: %s"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:296
+msgid "Choose languages"
+msgstr "Dil Seç"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:298
+msgid "This feature is supported only in WordPress version 4.0.0 or higher"
+msgstr ""
+"Bu özellik yalnızca Wordpress 4.0.0 ve yüksek versiyonu için geçerlidir."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:301
+msgid ""
+"Hide Chat for Logged-in users and show it only for not Logged site visitors."
+msgstr ""
+"Siteye giriş yapanlara sohbeti göstermez ve sadece ziyaretçilere görünür."
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:304
+msgid "Hide for Logged-in"
+msgstr "Giriş Yapanlara Gösterme"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:307
+msgid "IPs List"
+msgstr "IP Listesi"
+
+#: ../modules/chat/views/tpl/chatSettingsWhenShow.php:309
+msgid ""
+"Type here IPs that will not see (or vice versa) Chat, each IP - from new line"
+msgstr "IP adreslerini buraya yazınız ( Her bir satıra bir adet yazın)"
+
+#: ../modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr "Test epostası için eposta kutunuzu veya spam klasörünü kontrol ediniz."
+
+#: ../modules/mail/mod.php:37
+msgid "Cannot send email - problem with send server"
+msgstr "Eposta gönderilemedi - server ile alakalı bir hata oluştu"
+
+#: ../modules/mail/mod.php:50
+msgid "Mail"
+msgstr "Eposta"
+
+#: ../modules/mail/mod.php:52
+msgid "Mail function tested and work"
+msgstr "Eposta fonksiyonu test edildi ve çalışıyor"
+
+#: ../modules/mail/mod.php:53
+msgid "Notify Email"
+msgstr "Eposta ile Bildir"
+
+#: ../modules/mail/mod.php:53
+msgid "Email address used for all email notifications from plugin"
+msgstr "Tüm eposta bildirimlerinde bu eposta adresi  kullanılacaktır"
+
+#: ../modules/mail/models/mail.php:7
+msgid "Test email functionality"
+msgstr "Eposta Fonksiyonu Testi"
+
+#: ../modules/mail/models/mail.php:8
+#, php-format
+msgid "This is a test email for testing email functionality on your site, %s."
+msgstr ""
+"Bu test postası websiteniz %s , üzerindeki eposta fonksiyonunu test etmek "
+"için gönderildi."
+
+#: ../modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr "Eposta adres alanı boş"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr "Test postası gönderilecek adres"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr "Testi gönder"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allows you to check your server mail functionality"
+msgstr "Bu seçenek serverın mail fonksiyonunu kontrol etmesine izin verir"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you receive test email?"
+msgstr "Test epostasını aldınız mı?"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It works!"
+msgstr "Evet! Çalışıyor!"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr ""
+"Hayır, Hosting sağlayıcımla mail fonksiyonu sorunu için iletişime geçmeliyim."
+
+#: ../modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and is working fine."
+msgstr "Mükemmel! Mail fonksiyonu test edildi ve düzgün çalışıyor."
+
+#: ../modules/mail/views/tpl/mailAdmin.php:29
+msgid ""
+"Bad, please contact your hosting provider and ask them to setup mail "
+"functionality on your server."
+msgstr ""
+"Hatalı, lütfen hosting sağlayıcınız ile serverınızın mail fonksiyonu "
+"ayarları ile ilgili iletişime geçiniz."
+
+#: ../modules/mail/views/tpl/mailAdmin.php:47
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:44
+#, php-format
+msgid "Turned On %s"
+msgstr "%s Aktif"
+
+#: ../modules/mail/views/tpl/mailAdmin.php:48
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:45
+#, php-format
+msgid "Turned Off %s"
+msgstr "%s Deaktif"
+
+#: ../modules/options/mod.php:48
+msgid "System"
+msgstr "Sistem"
+
+#: ../modules/options/mod.php:114
+msgid "General"
+msgstr "Genel"
+
+#: ../modules/options/mod.php:116
+msgid "Send usage statistics"
+msgstr "Kullanım istatistiklerini gönder"
+
+#: ../modules/options/mod.php:116
+msgid ""
+"Send information about what plugin options you prefer to use, this will help "
+"us make our solution better for You."
+msgstr ""
+"Eklentinin hangi ayarlarını kullandığınıza dair bilgileri gönderin, biz de "
+"sizin için daha iyi çözümler sunabilelim."
+
+#: ../modules/options/mod.php:118
+msgid "Enable promo link"
+msgstr "Reklam linkini aktifleştir"
+
+#: ../modules/options/mod.php:118
+msgid ""
+"We are trying to make our plugin better for you, and you can help us with "
+"this. Just check this option - and small promotion link will be added in the "
+"bottom of your Chat. This is easy for you - but very helpful for us!"
+msgstr ""
+"Eklentinin daha da geliştirilmesini ve size hizmet etmesini istiyoruz, bu "
+"seçenek ile bize yardım edebilirsiniz. Sadece bunu işaretleyerek sohbet "
+"pencresinin altında reklam linkimiz eklenecektir. Bu sizin için çok kolay "
+"bizim için çok faydalı bir hareket olacaktır!"
+
+#: ../modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr "Modül Güncellendi"
+
+#: ../modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "Mdül Güncellemesi Başarısız"
+
+#: ../modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "Modül ID hatası"
+
+#: ../modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr "Boş veri seçeneğini kaydet"
+
+#: ../modules/options/views/tpl/optionsAdminPage.php:33
+msgid "Improve Free version"
+msgstr "Ücretsiz versiyonu geliştir"
+
+#: ../modules/options/views/tpl/optionsAdminPage.php:35
+#, php-format
+msgid ""
+"Please be advised that this option is available only in <a target=\"_blank\" "
+"href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class="
+"\"button\">Get PRO</a> today and get this and other PRO option for your Chat!"
+msgstr ""
+"Bu seçenek yalnızca <a target=\"_blank\" href=\"%s\">PRO versiyon</a> "
+"kullanıcıları için aktiftir. Siz de<a target=\"_blank\" href=\"%s\" class="
+"\"button\"> PRO versiyona geç</a>erek canlı destek eklentimizin tüm PRO "
+"özelliklerinden yararlanabilirsiniz!"
+
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr "Tüm ayarları kaydet"
+
+#: ../modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr "Eklenti Verilerini Sil (ayarlar, kayıtşar, database tabloları vb..)"
+
+#: ../modules/registration/js/admin.registration.js:179
+msgid "Are you sure want to remove field "
+msgstr ""
+
+#: ../modules/registration/models/registration.php:33
+msgid "Empty Engine ID or URL"
+msgstr "Boş Engine ID veya URL"
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:14
+msgid "Are you sure want to clear all PopUp Statistics?"
+msgstr ""
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:354
+#, fuzzy
+#| msgid "Required"
+msgid "Requests"
+msgstr "Zorunlu"
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:421
+msgid "Views"
+msgstr "Görüntüleme"
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:421
+msgid "Unique Views"
+msgstr "Tekil Ziyaretçiler"
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:421
+msgid "Conversion"
+msgstr "Dönüşüm"
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:436
+msgid "Current PopUp"
+msgstr ""
+
+#: ../modules/statistics/js/admin.statistics.popup.edit.js:438
+#, fuzzy
+#| msgid "You have no permissions to view this page"
+msgid "You have no statistics to display here."
+msgstr "Bu sayfayı görmek için yetkiniz bulunmamaktadır."
+
+#: ../modules/statistics/mod.php:9
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: ../modules/statistics/mod.php:28
+#, fuzzy
+#| msgid "Displayed"
+msgid "Chat Displayed"
+msgstr "Görüntülendi"
+
+#: ../modules/statistics/mod.php:29
+#, fuzzy
+#| msgid "Opened"
+msgid "Chat Opened"
+msgstr "Açıldı"
+
+#: ../modules/statistics/mod.php:30
+#, fuzzy
+#| msgid "Registered"
+msgid "User Registered"
+msgstr "Kayıt Olundu"
+
+#: ../modules/statistics/mod.php:31
+#, fuzzy
+#| msgid "Chat Session Data"
+msgid "Session Started"
+msgstr "Sohbet Oturum Bilgisi"
+
+#: ../modules/statistics/models/statistics.php:30
+msgid "Send me some info, pls"
+msgstr "Biraz bilgi gönderin, lütfen"
+
+#: ../modules/statistics/models/statistics.php:75
+#, fuzzy
+#| msgid "Message"
+msgid "Messages"
+msgstr "Mesajınız"
+
+#: ../modules/statistics/models/statistics.php:187
+msgid "No data found"
+msgstr "Hiç data bulunamadı"
+
+#: ../modules/statistics/views/tpl/statPromoGraph.php:4
+#, fuzzy
+#| msgid "Get in PRO"
+msgid "Get PRO"
+msgstr "PRO Satın Al"
+
+#: ../modules/statistics/views/tpl/statPromoGraph.php:5
+msgid "All Statistics in PRO version"
+msgstr ""
+
+#: ../modules/supsystic_promo/controller.php:7
+msgid "Information was saved. Thank you!"
+msgstr "Bilgiler kaydedildi. Teşekkürler!"
+
+#: ../modules/supsystic_promo/controller.php:23
+msgid ""
+"Please don't send contact requests so often - wait for response for your "
+"previous requests."
+msgstr ""
+"Lütfen sık sık eposta göndermeyin - önceki epostanızın cevabını bekleyiniz."
+
+#: ../modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr "Lütfen geçerli bir adres girin"
+
+#: ../modules/supsystic_promo/controller.php:193
+msgid "Please wait while our operator will start conversation"
+msgstr "Operatörlerimiz en kısa sürede size bağlanacaktır. Lütfen bekleyiniz."
+
+#: ../modules/supsystic_promo/controller.php:194
+msgid ""
+"<a href=\"https://supsystic.com/\" target=\"_blank\">supsystic.com</a> chat "
+"engine"
+msgstr ""
+"<a href=\"https://supsystic.com/\" target=\"_blank\">supsystic.com</a> canlı "
+"destek makinesi"
+
+#: ../modules/supsystic_promo/controller.php:195
+msgid ""
+"Thank you for using our support! Driven by <a href=\"https://supsystic.com/"
+"\" target=\"_blank\">supsystic.com chat engine</a>"
+msgstr ""
+"Destek departmanızımı kullandığınız için teşekkürler! <a href=\"https://"
+"supsystic.com/\" target=\"_blank\">canlı destek makinesi</a>"
+
+#: ../modules/supsystic_promo/controller.php:196
+msgid "Operator [name] joined chat with you"
+msgstr "[name] adlı operatör sohbete bağlandı"
+
+#: ../modules/supsystic_promo/controller.php:197
+msgid "Start Chat!"
+msgstr "Sohbeti Başlat!"
+
+#: ../modules/supsystic_promo/controller.php:198
+msgid "Please register before chat"
+msgstr "Lütfen sohbete başlamadan önce kayıt olun"
+
+#: ../modules/supsystic_promo/mod.php:33
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week - that's awesome!</"
+"h3><p>Could you please do me a BIG favor and give it a 5-star rating on "
+"WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+"<h3>Hey, Farkettimki %s haftadan fazla eklentiyi kullanıyorsun. Mükemmel!</"
+"h3> <p> Benim için Wordpress sitesi üzerinde 5 yıldız vererek BÜYÜK bir "
+"iyilik yapar mısın? Bu bizim motivasyonumuzu artırmakta. </p>"
+
+#: ../modules/supsystic_promo/mod.php:34 ../modules/supsystic_promo/mod.php:40
+msgid "Ok, you deserve it"
+msgstr "Pekala, bunu hakettiniz"
+
+#: ../modules/supsystic_promo/mod.php:35 ../modules/supsystic_promo/mod.php:41
+msgid "Nope, maybe later"
+msgstr "Meşgulüm, belki sonra"
+
+#: ../modules/supsystic_promo/mod.php:36
+msgid "I already did"
+msgstr "Zaten oyladım"
+
+#: ../modules/supsystic_promo/mod.php:37
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr "<h3> Eklentimiz %s ile 11 günden beri aktifsiniz. Tebrikler </h3>"
+
+#: ../modules/supsystic_promo/mod.php:38
+msgid ""
+"<p>On behalf of the entire <a href=\"https://supsystic.com/\" target=\"_blank"
+"\">supsystic.com</a> company I would like to thank you for been with us, and "
+"I really hope that our software helped you.</p>"
+msgstr ""
+"<p> Tüm <a href=\"https://supsystic.com/\" target=\"_blank\">supsystic.com</"
+"a> şirketi adına bizi tercih ettiğiniz için teşekkür eder, yazılımımızın "
+"size büyük yardımı dokunmasını umut ederiz. </p>"
+
+#: ../modules/supsystic_promo/mod.php:39
+msgid ""
+"<p>And today, if you want, - you can help us. This is really simple - you "
+"can just add small promo link to our site under your Chat. This is small "
+"step for you, but a big help for us! Sure, if you don't want - just skip "
+"this and continue enjoy our software!</p>"
+msgstr ""
+"<p>Biliyor musunuz, dilerseniz bugün bize yardım edebilirsiniz. Çok basit, "
+"sadece reklam linkini sohbet penceresinin altına eklemeniz yeterli "
+"olacaktır. Bu sizin için küçük ama bizim için çok büyük bir hareket "
+"olacaktır! Ve tabii ki istemiyorsanız bunu gözardı edebilir, yazılımın "
+"keyfini çıkarabilirsiniz! </p>"
+
+#: ../modules/supsystic_promo/mod.php:42
+msgid "Skip"
+msgstr "Geç"
+
+#: ../modules/supsystic_promo/mod.php:44
+#, php-format
+msgid ""
+"Check out <a href=\"%s\" target=\"_blank\" class=\"button button-primary\" "
+"data-statistic-code=\"hide\">our other Plugins</a>! Years of experience in "
+"WordPress plugins developers made those list unbreakable!"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:90
+msgid "Overview"
+msgstr "Panel"
+
+#: ../modules/supsystic_promo/mod.php:93
+msgid "Featured Plugins"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:160
+msgid "Website"
+msgstr "Website"
+
+#: ../modules/supsystic_promo/mod.php:161
+msgid "Subject"
+msgstr "Konu"
+
+#: ../modules/supsystic_promo/mod.php:162
+msgid "Topic"
+msgstr "Başlık Seç"
+
+#: ../modules/supsystic_promo/mod.php:163
+msgid "Plugin options"
+msgstr "Eklenti Ayarları"
+
+#: ../modules/supsystic_promo/mod.php:164
+msgid "Report a bug"
+msgstr "Hata Tespiti"
+
+#: ../modules/supsystic_promo/mod.php:165
+msgid "Require a new functionality"
+msgstr "Yeni bir Özellik İste"
+
+#: ../modules/supsystic_promo/mod.php:166
+msgid "Other"
+msgstr "Diğer"
+
+#: ../modules/supsystic_promo/mod.php:168
+msgid "Message"
+msgstr "Mesajınız"
+
+#: ../modules/supsystic_promo/mod.php:168
+msgid "Hello Supsystic Team!"
+msgstr "Merhaba Supystic Team!"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:38
+#, php-format
+msgid ""
+"There were some problems while trying to retrieve our news, but you can "
+"always check all list <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+"Haberlerimizi çekerken bir hata meydana geldi, ama daima <a target=\"_blank"
+"\" href=\"%s\">buradan</a> listeye ulaşabilirsiniz."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:88
+msgid "Popup Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:88
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, "
+"social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:89
+#, fuzzy
+#| msgid "Contact form"
+msgid "Contact Form Plugin"
+msgstr "İletişim Formu"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:89
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:90
+msgid "Newsletter Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:90
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will "
+"have no need to control it or send them manually. No coding, hard skills or "
+"long hours of customizing are required."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:91
+msgid "Membership by Supsystic"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:91
+msgid ""
+"Create online membership community with custom user profiles, roles, "
+"FrontEnd registration and login. Members Directory, activity, groups, "
+"messages."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:92
+msgid "Photo Gallery Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:92
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:93
+msgid "Data Tables Generator"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:93
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML "
+"knowledge is required."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:94
+#, fuzzy
+#| msgid "Slide Down"
+msgid "Slider Plugin"
+msgstr "Slide Down"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:94
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select "
+"images from your WordPress Media Library, Flickr, Instagram or Facebook, set "
+"slide captions, links and SEO fields all from one page."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:95
+msgid "Social Share Buttons"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:95
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social "
+"sharing to Facebook, Twitter and other social networks."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:96
+#, fuzzy
+#| msgid "Live Chat Agent"
+msgid "Live Chat Plugin"
+msgstr "Canlı Destek Operatörü"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:96
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by "
+"Supsystic. Help you visitors, support them in real-time with exceptional "
+"Live Chat WordPress plugin by Supsystic."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:97
+msgid "Pricing Table"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:97
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables "
+"with table builder. Any element of the table can be customise with mouse "
+"click."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:98
+msgid "Coming Soon Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:98
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | "
+"maintenance mode to notify visitors and collects emails."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:99
+msgid "Backup Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:99
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and "
+"unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress "
+"website."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:100
+msgid "Google Maps Easy"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:100
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:101
+msgid "Digital Publication Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:101
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:102
+msgid "Kinsta Hosting"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:102
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:6
+msgid ""
+"If you want to host a business site or a blog, Kinsta managed WordPress "
+"hosting is the best place to stop on. Without any hesitation, we can say "
+"Kinsta is incredible when it comes to uptime and speed."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "Versiyon"
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr "Hemen"
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr "PRO Ol."
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:15
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:28
+msgid "Support"
+msgstr "Destek"
+
+#: ../modules/supsystic_promo/views/tpl/discountMsg.php:37
+#, php-format
+msgid ""
+"Upgrade to bundle and get an access to <a href=\"%s\" target=\"_blank\">all "
+"14 plugins</a> more than 80%% off!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/discountMsg.php:38
+msgid "Buy Now"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:3
+msgid "Get plugins bundle today and save over 80%"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:6
+msgid "Check It out"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:31
+#, fuzzy
+#| msgid "More then"
+msgid "More info"
+msgstr "Fazlaysa"
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:35
+msgid "Download"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:12
+msgid "Server Settings"
+msgstr "Server Ayarlarınız"
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:25
+msgid "Contact form"
+msgstr "İletişim Formu"
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:57
+msgid "Send email"
+msgstr "Gönder"
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:66
+msgid ""
+"Your email was sent, we will try to respond to your as soon as possible. "
+"Thank you for support!"
+msgstr ""
+"Epostanız gönderildi, en kısa zamanda size geri dönüş sağlayacağız. "
+"Desteğiniz için teşekkürler!"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr "%s v %s Hoşgeldiniz"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr "Anlatımı Geç"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:11
+msgid ""
+"The best way to collect subscribers and show notifications.<br />We are "
+"trying to make our plugin work in most comfortable way for you. Here is some "
+"base information about it."
+msgstr ""
+"Gösterilen uyarıları ve takipçilerin verilerini toplamak bizim için en iyi "
+"geliştirme yöntemidir. <br/> Biz, eklentimizi sizin için daha kullanışlı "
+"hale getirmek için çalışıyoruz. Burada bazı temek bilgileri edinebilirsiniz."
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr "Adım Adım Eğitimler"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:21
+#, fuzzy
+#| msgid ""
+#| "There're really many options of popup customization. So as soon as you "
+#| "close that page, I'll show you step-by-step tutorial of how to use "
+#| "plugin. Hope it will be usefull for you :)"
+msgid ""
+"There're really many options of Live Chat customization. So as soon as you "
+"close that page, I'll show you step-by-step tutorial of how to use plugin. "
+"Hope it will be usefull for you :)"
+msgstr ""
+"Popup özelleştirmesi için çok fazla seçenek mevcuttur. Bu sayfayı kapatır "
+"kapatmaz size, adım adım eklentinin nasıl kullanacağını göstereceğim. Umarım "
+"yararı dokunur :) "
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:24
+msgid "As an option we can install and setup plugin for you."
+msgstr "Dilerseniz sizin yerinize eklentiyi kurup ayarlayabiliriz."
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:30
+#, php-format
+msgid ""
+"We love our plugin and do the best to improve all features for You. But "
+"sometimes issues happened, or you can't find required feature that you need. "
+"Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will "
+"help you!"
+msgstr ""
+"Eklentimizi çok seviyor ve sizin için tüm özelliklerini geliştirmek için "
+"çalışıyoruz. Tabii bazı zamanlar sorunlar ortaya çıkabilir veya siz "
+"aradığınız özelliği bulamayabilirsiniz. Endişelenmeyin, yapmanız gereken "
+"bizimle <a href='%s' target='_blank'>iletişime geçmek.</a>"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:36
+msgid "Video Tutorial"
+msgstr "Video Eğitimleri"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:48
+msgid "Frequently Asked Questions"
+msgstr "Sıkça Sorulan Sorular"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:51
+msgid "Check all FAQs"
+msgstr "Tüm Sık Soruları kontrol et"
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:59
+msgid "Let's Start!"
+msgstr "Sohbeti Başlat!"
+
+#~ msgid "You can edit user registration fields here"
+#~ msgstr "Burtadan kayıt olmak için gerekli bölümleri düzenleyebilirsiniz."
+
+#~ msgid "Animation"
+#~ msgstr "Animasyonlat"
+
+#~ msgid "Statistics for %s"
+#~ msgstr "%s için istatistikler"
+
+#~ msgid ""
+#~ "Want to increase conversion, subscribers and social share? <a target="
+#~ "\"_blank\" href=\"%s\" class=\"button\">Get know - how!</a>"
+#~ msgstr ""
+#~ "Sosyal paylaşım ve takipçilerinde dönüşüm oranını artırmak mı istiyorsun? "
+#~ "<a target=\"_blank\" href=\"%s\" class=\"button\">Nasıl Yapılacağını "
+#~ "Öğren!!</a>"
+
+#~ msgid "Main PopUp Usage Statistics"
+#~ msgstr "Ana Popup Kullanım İstatistikleri"
+
+#~ msgid "Clear selection"
+#~ msgstr "Seçilileri Sil"
+
+#~ msgid "To"
+#~ msgstr "to"
+
+#~ msgid "Reset Zoom"
+#~ msgstr "Reset Zoom"
+
+#~ msgid "Group by"
+#~ msgstr "Grupla"
+
+#~ msgid "Hour"
+#~ msgstr "Saat"
+
+#~ msgid "Day"
+#~ msgstr "Gün"
+
+#~ msgid "Week"
+#~ msgstr "Hafta"
+
+#~ msgid "Month"
+#~ msgstr "Ay"
+
+#~ msgid "Export to CSV"
+#~ msgstr "CSV olarak dışa aktar"
+
+#~ msgid "Clear data"
+#~ msgstr "Bilgileri temizle"
+
+#~ msgid "You can Zoom In by allocating mouse on Graph area."
+#~ msgstr "Grafik üzerinde fare ile zoom yapabilirsiniz."
+
+#~ msgid "Ratio of All Actions"
+#~ msgstr "Tüm Eylemlerin Oranı"
+
+#~ msgid ""
+#~ "Once you will have enough different statistics - like shares, subscribes, "
+#~ "likes - you will be able to see here which action is used more or less "
+#~ "frequently."
+#~ msgstr ""
+#~ "Bir defa yeteri miktarda farklı istatistik -paylaşım, takipçi, beğeni "
+#~ "gibi- edindiğinizde hangi eylemin daha fazla veya az kullanım sıklığına "
+#~ "ulaşabileceksiniz."
+
+#~ msgid "Ratio of All Social Share"
+#~ msgstr "Tüm Sosyal Paylaşımlar Oranı"
+
+#~ msgid ""
+#~ "Once you will have enough different statistics about share from PopUp on "
+#~ "social media, you will be able to see here which social media is used "
+#~ "more or less frequently."
+#~ msgstr ""
+#~ "PopUp penceresi üzerindeki sosyal medya paylaşım istatistiklerinden bir "
+#~ "defa yeteri miktarda farklı veriler edindiğinizde hangi sosyal medyanın "
+#~ "daha fazla veya az kullanım sıklığına ulaşabileceksiniz."
+
+#~ msgid ""
+#~ "You have no statistics for \"%s\" PopUp for now. Setup its options and "
+#~ "wait until users will view it on your site."
+#~ msgstr ""
+#~ "Henüz \"%s\" PopUp için hiç istatiğiniz bulunmamakta.  Ayarlarınızı "
+#~ "yaptıktan sonra kullanıcıların siteniz üzerinde istatistik oluşturmasını "
+#~ "bekleyiniz."

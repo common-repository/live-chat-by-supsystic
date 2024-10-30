@@ -1,0 +1,40 @@
+.lcsShell {
+	position: fixed;
+	display: none;
+	z-index: 1000001;
+	/*top: 0;
+	left: 0;*/
+}
+.lcsShell .lcsInputError {
+	border: 1px solid #fa4e7f !important;
+	color: #fa4e7f !important;
+}
+.lcsShell .lcsErrorMsg {
+	color: #fa4e7f !important;
+	padding: 5px;
+	margin: 5px 0;
+}
+.lcsShell .lcsSuccessMsg {
+	padding: 5px;
+	margin: 5px 0;
+	text-align: center;
+	color: #4ae8ea !important;;
+}
+.lcsShell .lcsBarBtns {
+	visibility: hidden;
+}
+.lcsShell.lcsOpened .lcsBarBtns {
+	visibility: visible;
+}
+.lcsEyeCatchImg {
+	width: auto;
+	height: auto;
+	position: fixed;
+	display: none;
+	cursor: pointer;
+	z-index: 9999;
+}
+/*make chat text correct fill-in messages shell*/
+.lcsChat .lcsMsg {
+	word-wrap: break-word;
+}
